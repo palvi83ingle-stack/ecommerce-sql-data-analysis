@@ -1,0 +1,13 @@
+#01_database_exploration.sql#
+CREATE DATABASE indian_ecommerce_sale;
+SHOW TABLES;
+CREATE TABLE CUSTOMERS_CLEANED
+AS
+SELECT ï»¿Customer_ID,Gender,Age,Age_Group,City,State,Registration_Date,Customer_Tier,
+Total_Orders,Total_Spent
+FROM CUSTOMERS;
+SELECT*FROM PRODUCTS;
+SELECT*FROM SALES;
+DESCRIBE CUSTOMERS_CLEANED;
+DESCRIBE PRODUCTS;
+DESCRIBE SALES;
