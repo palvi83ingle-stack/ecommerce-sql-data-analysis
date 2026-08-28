@@ -1,0 +1,1001 @@
+ï»¿Customer_ID,Gender,Age,Age_Group,City,State,Registration_Date,Customer_Tier,Total_Orders,Total_Spent
+CUST00000001,male,48,46-55,Patiala,Punjab,2024-01-28,Gold,5,40098.48
+CUST00000002,male,73,65+,Durgapur,"West Bengal",2023-08-25,Platinum,8,63676.24
+CUST00000003,male,31,26-35,Gurugram,Haryana,2023-08-30,Silver,0,0
+CUST00000004,male,41,36-45,Kolkata,"West Bengal",2024-03-11,Platinum,5,288324.84
+CUST00000005,female,53,46-55,Noida,UP,2024-04-19,Platinum,4,69265.75
+CUST00000006,female,19,18-25,Jodhpur,Rajasthan,2024-04-26,Platinum,6,195157.41
+CUST00000007,male,34,26-35,Jodhpur,Rajasthan,2024-05-10,Platinum,7,216730.17
+CUST00000008,female,60,56-65,Faridabad,Haryana,2024-04-02,Platinum,7,149633.69
+CUST00000009,female,35,26-35,Jalandhar,Punjab,2023-10-03,Platinum,7,339103.94
+CUST00000010,male,42,36-45,Alwar,Rajasthan,2023-11-22,Platinum,6,192737.1
+CUST00000011,female,28,26-35,Palwal,Haryana,2023-08-29,Platinum,8,134681.04
+CUST00000012,male,26,26-35,Kanpur,UP,2023-08-20,Platinum,4,415607.48
+CUST00000013,female,58,56-65,Amritsar,Punjab,2023-11-10,Platinum,6,77308.68
+CUST00000014,female,20,18-25,Mangalore,Karnataka,2024-03-28,Platinum,5,131378.22
+CUST00000015,female,23,18-25,Pune,Maharashtra,2024-05-06,Platinum,4,81482.83
+CUST00000016,female,35,26-35,Ludhiana,Punjab,2023-07-27,Platinum,8,86078.26
+CUST00000017,female,21,18-25,Jalandhar,Punjab,2023-06-03,Platinum,5,208838.19
+CUST00000018,female,30,26-35,Dwarka,Delhi,2023-06-21,Platinum,3,107100.8
+CUST00000019,female,24,18-25,Amritsar,Punjab,2023-12-22,Platinum,8,97966.36
+CUST00000020,female,45,36-45,Varanasi,UP,2024-01-25,Platinum,9,225738.85
+CUST00000021,male,32,26-35,Panipat,Haryana,2024-03-18,Gold,2,27456.26
+CUST00000022,male,30,26-35,Jaipur,Rajasthan,2023-10-30,Platinum,10,234104.79
+CUST00000023,male,44,36-45,Bangalore,Karnataka,2024-02-18,Platinum,3,67612.09
+CUST00000024,male,54,46-55,Kota,Rajasthan,2024-03-31,Platinum,3,137750.19
+CUST00000025,male,61,56-65,Bangalore,Karnataka,2023-09-22,Platinum,8,50069.87
+CUST00000026,male,47,46-55,Patiala,Punjab,2023-11-05,Platinum,6,68598.09
+CUST00000027,male,59,56-65,Varanasi,UP,2023-06-10,Platinum,4,103770.58
+CUST00000028,female,45,36-45,Thane,Maharashtra,2024-05-17,Platinum,3,219002.63
+CUST00000029,female,21,18-25,Chennai,"Tamil Nadu",2023-09-21,Platinum,5,309524.06
+CUST00000030,female,18,18-25,Madurai,"Tamil Nadu",2023-09-04,Platinum,8,156102.68
+CUST00000031,male,28,26-35,Varanasi,UP,2023-12-19,Silver,1,19654.16
+CUST00000032,male,43,36-45,Agra,UP,2024-01-10,Platinum,9,290079.46
+CUST00000033,male,28,26-35,Gurugram,Haryana,2024-02-23,Gold,1,23832.76
+CUST00000034,female,44,36-45,"Delhi NCR",Delhi,2023-08-16,Platinum,4,88475.29
+CUST00000035,female,24,18-25,Udaipur,Rajasthan,2023-06-12,Platinum,3,135953.8
+CUST00000036,female,26,26-35,Ludhiana,Punjab,2023-10-19,Platinum,3,116977.79
+CUST00000037,male,28,26-35,Varanasi,UP,2023-06-15,Platinum,1,57496.87
+CUST00000038,male,43,36-45,Nagpur,Maharashtra,2023-11-23,Platinum,2,105011.31
+CUST00000039,female,43,36-45,Howrah,"West Bengal",2023-09-03,Silver,3,10318.49
+CUST00000040,female,29,26-35,Pune,Maharashtra,2024-04-24,Platinum,6,181800.28
+CUST00000041,male,18,18-25,Noida,UP,2024-03-29,Platinum,6,191921.24
+CUST00000042,male,41,36-45,Udaipur,Rajasthan,2024-02-20,Platinum,5,125102.36
+CUST00000043,female,40,36-45,Ahmedabad,Gujarat,2023-08-31,Platinum,2,73861.57
+CUST00000044,male,24,18-25,"New Delhi",Delhi,2024-01-08,Platinum,3,194783.7
+CUST00000045,male,29,26-35,Ludhiana,Punjab,2023-07-23,Platinum,6,105687.92
+CUST00000046,female,35,26-35,Rajkot,Gujarat,2024-01-04,Platinum,3,76112.05
+CUST00000047,female,55,46-55,Bangalore,Karnataka,2024-01-19,Gold,4,23683.71
+CUST00000048,female,45,36-45,Faridabad,Haryana,2023-12-05,Platinum,4,108963.82
+CUST00000049,female,19,18-25,Mangalore,Karnataka,2024-04-10,Platinum,5,177244.55
+CUST00000050,female,52,46-55,Patiala,Punjab,2023-06-02,Gold,6,49251.13
+CUST00000051,female,27,26-35,Nagpur,Maharashtra,2023-10-04,Platinum,4,261308.14
+CUST00000052,female,55,46-55,Noida,UP,2023-08-17,Gold,5,41170.35
+CUST00000053,female,26,26-35,Noida,UP,2024-05-19,Gold,4,34480.91
+CUST00000054,male,51,46-55,Dwarka,Delhi,2024-03-10,Platinum,7,105840.62
+CUST00000055,female,19,18-25,Kolkata,"West Bengal",2024-02-21,Silver,3,12704.79
+CUST00000056,male,27,26-35,Dwarka,Delhi,2024-05-12,Platinum,3,107091.86
+CUST00000057,female,29,26-35,Kanpur,UP,2023-12-11,Gold,4,43660.66
+CUST00000058,female,29,26-35,Surat,Gujarat,2024-02-14,Platinum,5,99995.14
+CUST00000059,male,33,26-35,Agra,UP,2023-09-14,Gold,3,20335.04
+CUST00000060,male,25,18-25,Thane,Maharashtra,2023-10-04,Silver,2,6233.23
+CUST00000061,female,50,46-55,Sohna,Haryana,2023-09-10,Platinum,4,54915.02
+CUST00000062,female,29,26-35,Kota,Rajasthan,2024-04-27,Platinum,6,273662.88
+CUST00000063,female,46,46-55,Nagpur,Maharashtra,2023-11-03,Silver,3,5656.29
+CUST00000064,male,27,26-35,Ahmedabad,Gujarat,2024-01-31,Platinum,3,129262.34
+CUST00000065,male,26,26-35,Sohna,Haryana,2023-12-22,Gold,4,22717.46
+CUST00000066,female,22,18-25,Kota,Rajasthan,2023-06-26,Platinum,7,101322.12
+CUST00000067,female,21,18-25,Kolkata,"West Bengal",2024-03-29,Platinum,5,187007.44
+CUST00000068,female,27,26-35,Nagpur,Maharashtra,2024-01-01,Platinum,2,66203.8
+CUST00000069,male,19,18-25,Lucknow,UP,2023-11-08,Gold,4,36602.11
+CUST00000070,female,28,26-35,Patiala,Punjab,2023-12-25,Platinum,10,307046.11
+CUST00000071,male,26,26-35,Rajkot,Gujarat,2023-09-17,Platinum,5,294444.41
+CUST00000072,female,36,36-45,Surat,Gujarat,2024-05-09,Platinum,4,123244.18
+CUST00000073,female,35,26-35,Madurai,"Tamil Nadu",2023-08-26,Platinum,5,201653.75
+CUST00000074,female,26,26-35,Chennai,"Tamil Nadu",2023-09-13,Platinum,3,104566.2
+CUST00000075,male,64,56-65,Faridabad,Haryana,2023-12-11,Platinum,8,82460.43
+CUST00000076,male,34,26-35,Agra,UP,2024-01-14,Platinum,2,57569.78
+CUST00000077,male,21,18-25,Thane,Maharashtra,2024-04-29,Gold,1,25735.79
+CUST00000078,male,53,46-55,Gurugram,Haryana,2024-02-01,Gold,5,27333.89
+CUST00000079,male,51,46-55,Ahmedabad,Gujarat,2024-03-15,Platinum,5,56879.43
+CUST00000080,male,65,56-65,Rajkot,Gujarat,2024-03-10,Platinum,7,113293.86
+CUST00000081,female,25,18-25,Howrah,"West Bengal",2023-07-28,Platinum,4,121001.11
+CUST00000082,male,36,36-45,Durgapur,"West Bengal",2024-01-12,Platinum,3,53849.6
+CUST00000083,female,38,36-45,"New Delhi",Delhi,2023-06-01,Platinum,5,144031.83
+CUST00000084,female,24,18-25,"Delhi NCR",Delhi,2023-07-21,Platinum,4,188044.95
+CUST00000085,female,29,26-35,Mangalore,Karnataka,2024-05-29,Platinum,8,247417.13
+CUST00000086,female,31,26-35,Sohna,Haryana,2024-03-29,Platinum,4,287191.92
+CUST00000087,female,21,18-25,Chennai,"Tamil Nadu",2023-07-13,Platinum,3,56323.51
+CUST00000088,male,73,65+,Jalandhar,Punjab,2024-05-11,Platinum,4,65871.89
+CUST00000089,male,37,36-45,Coimbatore,"Tamil Nadu",2023-12-19,Gold,5,38859.34
+CUST00000090,female,25,18-25,Varanasi,UP,2023-10-07,Platinum,4,71607.6
+CUST00000091,male,33,26-35,Jodhpur,Rajasthan,2023-10-22,Platinum,4,188531.2
+CUST00000092,female,31,26-35,Dwarka,Delhi,2023-06-27,Platinum,5,92991
+CUST00000093,male,26,26-35,Gurugram,Haryana,2024-03-19,Platinum,8,269586.36
+CUST00000094,male,27,26-35,Noida,UP,2023-09-30,Platinum,7,163492.86
+CUST00000095,female,21,18-25,Jaipur,Rajasthan,2024-02-18,Platinum,3,80585.97
+CUST00000096,female,45,36-45,Udaipur,Rajasthan,2023-09-25,Platinum,4,278991.51
+CUST00000097,male,52,46-55,Madurai,"Tamil Nadu",2023-06-22,Gold,4,43776.51
+CUST00000098,female,39,36-45,Dwarka,Delhi,2024-02-07,Platinum,6,126452.66
+CUST00000099,female,25,18-25,Jalandhar,Punjab,2023-12-13,Silver,3,9211.3
+CUST00000100,male,33,26-35,Mangalore,Karnataka,2023-10-24,Platinum,6,291515.29
+CUST00000101,male,38,36-45,Kota,Rajasthan,2023-06-08,Platinum,4,246732.59
+CUST00000102,female,40,36-45,Chennai,"Tamil Nadu",2023-10-08,Platinum,6,228857.83
+CUST00000103,male,44,36-45,Vadodara,Gujarat,2023-09-05,Platinum,2,107140.59
+CUST00000104,female,52,46-55,Kanpur,UP,2024-01-07,Silver,3,5200.09
+CUST00000105,male,61,56-65,Jaipur,Rajasthan,2024-04-12,Silver,4,11883.95
+CUST00000106,male,18,18-25,Nagpur,Maharashtra,2023-12-12,Platinum,5,260393.77
+CUST00000107,male,25,18-25,Pune,Maharashtra,2024-03-15,Silver,3,10243.93
+CUST00000108,male,59,56-65,Kolkata,"West Bengal",2024-04-02,Gold,3,30692.49
+CUST00000109,male,52,46-55,Kota,Rajasthan,2023-11-26,Gold,4,29135.14
+CUST00000110,female,29,26-35,Panipat,Haryana,2023-09-04,Platinum,3,70857.21
+CUST00000111,female,42,36-45,"Delhi NCR",Delhi,2023-07-09,Platinum,6,79849.84
+CUST00000112,female,19,18-25,Palwal,Haryana,2024-05-29,Platinum,5,127975.44
+CUST00000113,male,30,26-35,Howrah,"West Bengal",2023-09-28,Platinum,8,502062.96
+CUST00000114,male,26,26-35,Vadodara,Gujarat,2024-05-11,Platinum,10,189762
+CUST00000115,female,33,26-35,Alwar,Rajasthan,2023-10-08,Platinum,6,209844.81
+CUST00000116,male,38,36-45,Gurugram,Haryana,2024-02-03,Platinum,7,109884.54
+CUST00000117,male,61,56-65,Madurai,"Tamil Nadu",2024-03-29,Silver,5,6715.15
+CUST00000118,female,38,36-45,Mumbai,Maharashtra,2024-02-27,Platinum,4,222203.56
+CUST00000119,female,50,46-55,Patiala,Punjab,2024-02-25,Silver,1,1791.41
+CUST00000120,male,36,36-45,Varanasi,UP,2023-12-20,Platinum,7,204735.35
+CUST00000121,male,20,18-25,Jalandhar,Punjab,2024-05-30,Silver,5,4932.95
+CUST00000122,male,30,26-35,Faridabad,Haryana,2024-02-11,Platinum,7,146750.8
+CUST00000123,male,27,26-35,Dwarka,Delhi,2023-11-21,Platinum,5,54202.76
+CUST00000124,female,32,26-35,Dwarka,Delhi,2024-03-25,Platinum,9,257440.8
+CUST00000125,female,45,36-45,Gurugram,Haryana,2023-12-29,Platinum,8,107546.13
+CUST00000126,male,65,56-65,Thane,Maharashtra,2024-02-12,Platinum,2,64560.71
+CUST00000127,male,23,18-25,Howrah,"West Bengal",2023-06-14,Platinum,6,210212.65
+CUST00000128,male,47,46-55,Gurugram,Haryana,2023-10-30,Platinum,6,85529.24
+CUST00000129,male,41,36-45,Bangalore,Karnataka,2023-09-11,Platinum,6,146878.21
+CUST00000130,female,29,26-35,Madurai,"Tamil Nadu",2024-03-03,Platinum,8,236809.65
+CUST00000131,male,31,26-35,Patiala,Punjab,2023-07-02,Platinum,5,157363.13
+CUST00000132,male,39,36-45,Panipat,Haryana,2023-10-10,Platinum,3,124777.27
+CUST00000133,male,29,26-35,Rajkot,Gujarat,2023-07-25,Silver,1,17017.24
+CUST00000134,female,44,36-45,Jalandhar,Punjab,2023-07-16,Platinum,4,115095.52
+CUST00000135,male,40,36-45,Alwar,Rajasthan,2023-10-21,Gold,2,35278.96
+CUST00000136,female,22,18-25,Howrah,"West Bengal",2024-01-16,Platinum,5,153155.63
+CUST00000137,male,33,26-35,Kota,Rajasthan,2024-04-06,Platinum,8,211325.72
+CUST00000138,male,22,18-25,Udaipur,Rajasthan,2023-11-04,Platinum,5,57443.49
+CUST00000139,male,47,46-55,Durgapur,"West Bengal",2023-11-12,Gold,12,47995.03
+CUST00000140,female,21,18-25,Jodhpur,Rajasthan,2024-04-01,Platinum,8,200918.36
+CUST00000141,male,22,18-25,Udaipur,Rajasthan,2024-03-23,Platinum,4,151036.62
+CUST00000142,female,27,26-35,Alwar,Rajasthan,2023-10-15,Platinum,4,75196.48
+CUST00000143,male,33,26-35,Udaipur,Rajasthan,2023-12-04,Silver,2,12736.01
+CUST00000144,female,33,26-35,Durgapur,"West Bengal",2023-06-26,Platinum,4,167722.94
+CUST00000145,male,40,36-45,Patiala,Punjab,2024-01-12,Gold,2,48802.77
+CUST00000146,female,27,26-35,Rajkot,Gujarat,2023-12-31,Platinum,6,152657.68
+CUST00000147,male,47,46-55,Ahmedabad,Gujarat,2024-01-29,Gold,6,49877.23
+CUST00000148,female,54,46-55,Coimbatore,"Tamil Nadu",2024-05-20,Silver,3,13411.73
+CUST00000149,male,30,26-35,Thane,Maharashtra,2023-11-07,Platinum,10,299985.96
+CUST00000150,male,48,46-55,Chennai,"Tamil Nadu",2023-11-07,Platinum,9,77803.79
+CUST00000151,male,44,36-45,Madurai,"Tamil Nadu",2024-02-17,Platinum,4,105603.25
+CUST00000152,male,43,36-45,Faridabad,Haryana,2023-11-28,Platinum,5,200329.99
+CUST00000153,female,43,36-45,Lucknow,UP,2023-07-31,Platinum,6,242171.4
+CUST00000154,female,21,18-25,Surat,Gujarat,2023-10-28,Gold,8,22481.33
+CUST00000155,male,20,18-25,Coimbatore,"Tamil Nadu",2023-06-10,Silver,6,13206.81
+CUST00000156,female,40,36-45,Kota,Rajasthan,2023-10-12,Platinum,5,70181.6
+CUST00000157,female,34,26-35,Chennai,"Tamil Nadu",2023-11-08,Platinum,6,364038.16
+CUST00000158,female,43,36-45,Pune,Maharashtra,2023-06-21,Platinum,4,272332.35
+CUST00000159,male,33,26-35,Vadodara,Gujarat,2023-07-19,Platinum,4,82303.38
+CUST00000160,female,23,18-25,"Delhi NCR",Delhi,2024-05-28,Platinum,9,449522.63
+CUST00000161,female,49,46-55,Palwal,Haryana,2023-09-21,Silver,7,9069.83
+CUST00000162,female,58,56-65,Kanpur,UP,2023-09-22,Gold,2,42669.11
+CUST00000163,female,36,36-45,"New Delhi",Delhi,2024-03-02,Platinum,7,194611.58
+CUST00000164,female,35,26-35,Vadodara,Gujarat,2024-03-31,Platinum,4,136884.68
+CUST00000165,male,36,36-45,Kota,Rajasthan,2024-01-21,Platinum,6,233935.85
+CUST00000166,male,18,18-25,Howrah,"West Bengal",2024-04-12,Gold,4,24124.65
+CUST00000167,male,73,65+,Agra,UP,2023-06-29,Platinum,3,70703.63
+CUST00000168,male,37,36-45,"Delhi NCR",Delhi,2023-10-25,Platinum,5,237839.3
+CUST00000169,male,45,36-45,Surat,Gujarat,2024-05-05,Platinum,5,221258.87
+CUST00000170,male,33,26-35,Kota,Rajasthan,2024-03-07,Platinum,3,77028.91
+CUST00000171,male,44,36-45,Thane,Maharashtra,2023-10-17,Platinum,7,145296.12
+CUST00000172,male,47,46-55,Sohna,Haryana,2023-11-12,Silver,1,3098.7
+CUST00000173,male,40,36-45,Patiala,Punjab,2024-01-11,Gold,4,44028.96
+CUST00000174,male,63,56-65,Kanpur,UP,2024-03-17,Gold,6,49071.38
+CUST00000175,female,27,26-35,Varanasi,UP,2023-08-01,Platinum,3,69885.81
+CUST00000176,female,34,26-35,Rajkot,Gujarat,2023-12-17,Platinum,4,110858.14
+CUST00000177,female,23,18-25,Mysore,Karnataka,2024-01-07,Silver,2,8667.45
+CUST00000178,female,26,26-35,Panipat,Haryana,2024-01-27,Platinum,7,222910.9
+CUST00000179,male,25,18-25,Udaipur,Rajasthan,2023-06-10,Platinum,7,128136.19
+CUST00000180,female,33,26-35,Jalandhar,Punjab,2023-11-26,Platinum,4,84655.35
+CUST00000181,female,29,26-35,Noida,UP,2023-06-06,Platinum,8,164166.51
+CUST00000182,female,40,36-45,Jodhpur,Rajasthan,2023-10-02,Platinum,14,214908.4
+CUST00000183,male,65,56-65,Mangalore,Karnataka,2023-11-15,Gold,2,27512.48
+CUST00000184,male,26,26-35,Madurai,"Tamil Nadu",2024-05-01,Platinum,7,212011.62
+CUST00000185,female,28,26-35,Thane,Maharashtra,2024-05-18,Platinum,5,350896.36
+CUST00000186,male,23,18-25,Bangalore,Karnataka,2023-09-30,Platinum,6,168262.25
+CUST00000187,female,18,18-25,Patiala,Punjab,2023-09-18,Platinum,4,110125.76
+CUST00000188,male,32,26-35,Varanasi,UP,2023-11-24,Gold,3,43815.19
+CUST00000189,male,28,26-35,Pune,Maharashtra,2024-05-22,Platinum,5,102621.48
+CUST00000190,female,25,18-25,Varanasi,UP,2023-10-09,Platinum,8,175996.51
+CUST00000191,male,49,46-55,Howrah,"West Bengal",2023-09-23,Gold,6,41542.9
+CUST00000192,female,25,18-25,Jaipur,Rajasthan,2023-06-19,Platinum,7,207488.74
+CUST00000193,female,26,26-35,Howrah,"West Bengal",2024-02-15,Platinum,8,125806.12
+CUST00000194,male,32,26-35,Patiala,Punjab,2024-05-19,Gold,2,36453.6
+CUST00000195,female,64,56-65,Jalandhar,Punjab,2024-02-23,Platinum,4,59085.74
+CUST00000196,female,31,26-35,Gurugram,Haryana,2023-09-20,Platinum,5,57225.18
+CUST00000197,male,22,18-25,Surat,Gujarat,2023-12-31,Silver,3,16842.56
+CUST00000198,female,18,18-25,Palwal,Haryana,2023-10-26,Gold,5,27671.01
+CUST00000199,male,71,65+,Agra,UP,2023-07-27,Platinum,6,58014.85
+CUST00000200,female,30,26-35,Alwar,Rajasthan,2024-04-29,Platinum,5,102296.53
+CUST00000201,male,30,26-35,Ahmedabad,Gujarat,2024-05-12,Platinum,6,157086.29
+CUST00000202,male,40,36-45,Madurai,"Tamil Nadu",2023-11-07,Platinum,3,124855.88
+CUST00000203,male,41,36-45,Faridabad,Haryana,2024-04-10,Platinum,10,328604.54
+CUST00000204,male,23,18-25,Lucknow,UP,2023-08-19,Platinum,3,81479.78
+CUST00000205,male,21,18-25,Agra,UP,2024-03-08,Silver,6,17869.66
+CUST00000206,male,33,26-35,Pune,Maharashtra,2023-09-20,Platinum,3,73420.97
+CUST00000207,male,29,26-35,Dwarka,Delhi,2023-11-16,Platinum,7,144274.11
+CUST00000208,female,27,26-35,Coimbatore,"Tamil Nadu",2023-11-08,Platinum,6,74332.62
+CUST00000209,female,39,36-45,Jalandhar,Punjab,2024-03-06,Platinum,6,87857.59
+CUST00000210,female,29,26-35,Dwarka,Delhi,2023-08-29,Platinum,4,163263.1
+CUST00000211,male,28,26-35,Pune,Maharashtra,2024-01-10,Platinum,3,104207.44
+CUST00000212,male,58,56-65,Amritsar,Punjab,2023-09-13,Gold,4,28940.19
+CUST00000213,female,22,18-25,Noida,UP,2023-12-24,Gold,6,26204.35
+CUST00000214,female,27,26-35,Mysore,Karnataka,2023-06-10,Platinum,7,87186.28
+CUST00000215,male,28,26-35,Pune,Maharashtra,2024-02-07,Platinum,5,77630.72
+CUST00000216,male,25,18-25,"New Delhi",Delhi,2023-07-28,Platinum,4,93947.17
+CUST00000217,male,42,36-45,Howrah,"West Bengal",2023-10-06,Platinum,5,124444.68
+CUST00000218,male,31,26-35,Jalandhar,Punjab,2024-01-22,Platinum,4,75206.54
+CUST00000219,female,29,26-35,Vadodara,Gujarat,2023-09-16,Platinum,3,116643.03
+CUST00000220,female,23,18-25,Howrah,"West Bengal",2023-08-23,Silver,4,17210.82
+CUST00000221,female,30,26-35,Ludhiana,Punjab,2024-01-06,Silver,4,18114.17
+CUST00000222,female,63,56-65,Udaipur,Rajasthan,2023-06-07,Platinum,6,105133.94
+CUST00000223,male,50,46-55,"Delhi NCR",Delhi,2024-04-26,Gold,6,40859.37
+CUST00000224,male,44,36-45,Dwarka,Delhi,2023-09-13,Platinum,10,331695.55
+CUST00000225,male,34,26-35,Mysore,Karnataka,2024-05-09,Platinum,4,51708.46
+CUST00000226,male,30,26-35,Jalandhar,Punjab,2023-07-21,Platinum,4,156196.59
+CUST00000227,female,33,26-35,Nagpur,Maharashtra,2024-04-11,Gold,3,38713.98
+CUST00000228,male,18,18-25,Surat,Gujarat,2024-02-08,Silver,7,19475.32
+CUST00000229,female,54,46-55,Madurai,"Tamil Nadu",2023-07-04,Platinum,13,135444.77
+CUST00000230,male,20,18-25,Kota,Rajasthan,2024-01-26,Platinum,6,176750.04
+CUST00000231,male,27,26-35,Ludhiana,Punjab,2024-05-25,Platinum,8,214089.57
+CUST00000232,male,53,46-55,Vadodara,Gujarat,2023-08-17,Platinum,9,58151.07
+CUST00000233,female,25,18-25,Kanpur,UP,2023-07-10,Platinum,4,178570.07
+CUST00000234,male,32,26-35,Agra,UP,2023-09-04,Platinum,3,72574.94
+CUST00000235,male,20,18-25,Mysore,Karnataka,2024-02-19,Platinum,7,208446.72
+CUST00000236,female,68,65+,Noida,UP,2023-10-03,Silver,2,10866.83
+CUST00000237,male,43,36-45,Howrah,"West Bengal",2023-07-31,Gold,4,36546.07
+CUST00000238,male,47,46-55,Alwar,Rajasthan,2024-03-24,Gold,3,33214.45
+CUST00000239,male,41,36-45,Noida,UP,2023-06-06,Gold,2,26432.35
+CUST00000240,female,19,18-25,Noida,UP,2024-01-05,Platinum,9,185799.38
+CUST00000241,female,47,46-55,Kanpur,UP,2023-09-28,Platinum,8,71282.66
+CUST00000242,female,27,26-35,Noida,UP,2024-01-27,Platinum,9,263630.23
+CUST00000243,male,38,36-45,Vadodara,Gujarat,2024-04-07,Platinum,4,99778.71
+CUST00000244,male,43,36-45,"New Delhi",Delhi,2024-03-27,Silver,3,12156.82
+CUST00000245,male,63,56-65,Lucknow,UP,2024-01-03,Silver,3,8248.22
+CUST00000246,female,27,26-35,Durgapur,"West Bengal",2024-05-30,Platinum,3,78656.12
+CUST00000247,female,46,46-55,Vadodara,Gujarat,2023-12-20,Gold,4,32234.39
+CUST00000248,female,33,26-35,Surat,Gujarat,2023-07-09,Gold,3,38569.65
+CUST00000249,female,56,56-65,Jodhpur,Rajasthan,2024-01-25,Silver,4,18444.23
+CUST00000250,male,35,26-35,Kota,Rajasthan,2023-08-28,Gold,6,46053.72
+CUST00000251,male,41,36-45,Madurai,"Tamil Nadu",2023-07-30,Silver,1,616.37
+CUST00000252,female,25,18-25,Ahmedabad,Gujarat,2023-11-08,Platinum,8,161434.96
+CUST00000253,female,47,46-55,Kolkata,"West Bengal",2023-06-29,Platinum,12,106178.13
+CUST00000254,male,60,56-65,Ludhiana,Punjab,2023-06-16,Gold,6,25741.09
+CUST00000255,male,32,26-35,Gurugram,Haryana,2023-07-31,Platinum,5,399536.97
+CUST00000256,female,48,46-55,Noida,UP,2024-03-03,Platinum,7,104931
+CUST00000257,female,19,18-25,Vadodara,Gujarat,2023-10-29,Platinum,6,216490.18
+CUST00000258,male,47,46-55,Rajkot,Gujarat,2023-08-16,Platinum,5,58287.48
+CUST00000259,male,27,26-35,Ludhiana,Punjab,2024-05-16,Gold,6,44380.87
+CUST00000260,male,64,56-65,Varanasi,UP,2024-05-17,Platinum,4,52390.25
+CUST00000261,male,33,26-35,Dwarka,Delhi,2023-07-20,Platinum,5,237749.83
+CUST00000262,male,24,18-25,Jodhpur,Rajasthan,2023-07-28,Silver,1,705.38
+CUST00000263,male,27,26-35,Noida,UP,2024-01-16,Platinum,5,118059.29
+CUST00000264,male,45,36-45,"Delhi NCR",Delhi,2024-01-16,Platinum,8,223346.9
+CUST00000265,female,28,26-35,Varanasi,UP,2023-10-11,Gold,1,26885.26
+CUST00000266,female,26,26-35,Udaipur,Rajasthan,2024-03-24,Platinum,4,200778.36
+CUST00000267,male,23,18-25,Surat,Gujarat,2024-03-13,Platinum,8,159108.85
+CUST00000268,male,26,26-35,Lucknow,UP,2024-02-17,Platinum,4,77219.49
+CUST00000269,male,47,46-55,Dwarka,Delhi,2023-10-06,Silver,5,6980.75
+CUST00000270,female,26,26-35,Gurugram,Haryana,2024-01-24,Platinum,4,176823.81
+CUST00000271,male,38,36-45,Noida,UP,2023-08-19,Platinum,7,219872.82
+CUST00000272,female,42,36-45,Dwarka,Delhi,2023-12-04,Platinum,5,310252.72
+CUST00000273,male,30,26-35,Surat,Gujarat,2023-08-13,Platinum,8,321716.06
+CUST00000274,female,29,26-35,"New Delhi",Delhi,2023-11-07,Platinum,3,208976.44
+CUST00000275,male,45,36-45,Ahmedabad,Gujarat,2023-09-25,Platinum,6,93591.93
+CUST00000276,male,27,26-35,Varanasi,UP,2024-05-29,Gold,3,36092.21
+CUST00000277,female,51,46-55,Mumbai,Maharashtra,2024-03-10,Gold,6,24067.75
+CUST00000278,male,32,26-35,Jodhpur,Rajasthan,2023-11-27,Gold,3,34643.09
+CUST00000279,male,23,18-25,Nagpur,Maharashtra,2024-01-15,Platinum,2,175205.35
+CUST00000280,male,18,18-25,Noida,UP,2023-09-02,Platinum,7,99260.08
+CUST00000281,female,34,26-35,Nagpur,Maharashtra,2024-04-15,Platinum,9,199540.04
+CUST00000282,female,43,36-45,Howrah,"West Bengal",2023-06-08,Platinum,4,91789.24
+CUST00000283,female,26,26-35,Lucknow,UP,2023-09-15,Platinum,9,304235.58
+CUST00000284,male,25,18-25,Kota,Rajasthan,2023-06-18,Platinum,4,362251.74
+CUST00000285,male,65,56-65,Noida,UP,2024-02-20,Platinum,5,57665
+CUST00000286,female,25,18-25,Alwar,Rajasthan,2023-08-09,Platinum,7,129263.72
+CUST00000287,female,43,36-45,Varanasi,UP,2023-11-14,Platinum,7,214300.69
+CUST00000288,male,22,18-25,Thane,Maharashtra,2023-09-27,Gold,3,41508.62
+CUST00000289,female,23,18-25,Alwar,Rajasthan,2024-02-13,Silver,2,17601.49
+CUST00000290,female,40,36-45,Faridabad,Haryana,2023-08-20,Platinum,7,141537.22
+CUST00000291,female,31,26-35,Amritsar,Punjab,2023-06-28,Platinum,6,103940.13
+CUST00000292,female,26,26-35,Gurugram,Haryana,2023-08-04,Platinum,3,64507.28
+CUST00000293,female,37,36-45,Surat,Gujarat,2023-09-20,Platinum,4,187043.2
+CUST00000294,male,53,46-55,Mysore,Karnataka,2024-02-20,Gold,6,24052.79
+CUST00000295,male,26,26-35,Durgapur,"West Bengal",2023-11-13,Platinum,8,252158.18
+CUST00000296,male,33,26-35,Sohna,Haryana,2024-02-26,Platinum,5,98147.58
+CUST00000297,male,41,36-45,"New Delhi",Delhi,2023-07-07,Gold,4,37912.69
+CUST00000298,female,45,36-45,Howrah,"West Bengal",2023-12-28,Platinum,3,144816.21
+CUST00000299,male,29,26-35,Jodhpur,Rajasthan,2023-06-04,Platinum,5,86219.24
+CUST00000300,male,30,26-35,Durgapur,"West Bengal",2023-08-17,Platinum,8,270498.92
+CUST00000301,male,22,18-25,Coimbatore,"Tamil Nadu",2023-09-11,Silver,0,0
+CUST00000302,male,24,18-25,Kota,Rajasthan,2023-07-24,Platinum,4,158489.79
+CUST00000303,female,20,18-25,Thane,Maharashtra,2023-11-20,Silver,2,8959.08
+CUST00000304,female,25,18-25,Gurugram,Haryana,2024-03-17,Platinum,6,204157.42
+CUST00000305,male,25,18-25,Patiala,Punjab,2023-10-10,Silver,1,290.03
+CUST00000306,female,62,56-65,Madurai,"Tamil Nadu",2023-09-26,Platinum,5,93085.54
+CUST00000307,female,31,26-35,Ludhiana,Punjab,2023-06-26,Silver,2,5649.21
+CUST00000308,female,70,65+,Jodhpur,Rajasthan,2024-03-30,Silver,1,610.65
+CUST00000309,female,31,26-35,Chennai,"Tamil Nadu",2023-07-23,Platinum,6,170704.91
+CUST00000310,male,27,26-35,Durgapur,"West Bengal",2024-04-12,Gold,3,33155.62
+CUST00000311,male,44,36-45,Ludhiana,Punjab,2023-10-10,Platinum,5,334425.63
+CUST00000312,female,21,18-25,Madurai,"Tamil Nadu",2024-03-16,Platinum,5,80617.19
+CUST00000313,male,56,56-65,Panipat,Haryana,2023-12-28,Platinum,10,83364.16
+CUST00000314,male,25,18-25,"New Delhi",Delhi,2024-03-01,Platinum,4,145591.09
+CUST00000315,male,21,18-25,Ludhiana,Punjab,2024-05-08,Platinum,7,162115.1
+CUST00000316,female,24,18-25,Jalandhar,Punjab,2023-09-21,Platinum,8,147533.64
+CUST00000317,male,41,36-45,Mumbai,Maharashtra,2023-11-26,Platinum,4,148750.66
+CUST00000318,male,27,26-35,Lucknow,UP,2024-02-05,Silver,4,9315.69
+CUST00000319,female,28,26-35,"New Delhi",Delhi,2024-04-02,Platinum,8,130545.04
+CUST00000320,male,33,26-35,Patiala,Punjab,2023-07-07,Silver,3,17510.67
+CUST00000321,male,22,18-25,Mangalore,Karnataka,2023-08-29,Platinum,9,314288.3
+CUST00000322,male,44,36-45,"New Delhi",Delhi,2024-04-14,Platinum,9,316557.12
+CUST00000323,female,31,26-35,Jaipur,Rajasthan,2023-08-27,Platinum,4,262377.01
+CUST00000324,male,22,18-25,Pune,Maharashtra,2023-10-05,Platinum,2,64473.94
+CUST00000325,male,30,26-35,Palwal,Haryana,2023-11-27,Platinum,5,65198.15
+CUST00000326,male,62,56-65,Bangalore,Karnataka,2024-03-03,Gold,5,31564.68
+CUST00000327,male,28,26-35,Kota,Rajasthan,2023-11-30,Gold,2,42712.65
+CUST00000328,female,41,36-45,Nagpur,Maharashtra,2023-08-20,Silver,1,3695.52
+CUST00000329,female,41,36-45,Coimbatore,"Tamil Nadu",2024-03-17,Platinum,5,110634.71
+CUST00000330,female,42,36-45,Amritsar,Punjab,2023-09-08,Platinum,5,117309.48
+CUST00000331,female,29,26-35,Faridabad,Haryana,2023-07-07,Platinum,7,139598.19
+CUST00000332,female,23,18-25,Patiala,Punjab,2023-08-05,Platinum,3,125759.14
+CUST00000333,female,62,56-65,Howrah,"West Bengal",2023-12-03,Platinum,9,96821.44
+CUST00000334,male,41,36-45,Noida,UP,2024-01-02,Platinum,5,189616.5
+CUST00000335,male,61,56-65,Surat,Gujarat,2024-01-18,Silver,3,2557.78
+CUST00000336,male,34,26-35,"Delhi NCR",Delhi,2023-06-18,Platinum,5,140098.7
+CUST00000337,male,20,18-25,Mysore,Karnataka,2024-01-23,Platinum,5,413891.99
+CUST00000338,female,50,46-55,Durgapur,"West Bengal",2023-08-20,Gold,3,44706.7
+CUST00000339,male,21,18-25,Kanpur,UP,2023-07-06,Silver,4,17209.02
+CUST00000340,female,18,18-25,Madurai,"Tamil Nadu",2024-03-22,Platinum,6,196092.81
+CUST00000341,female,23,18-25,Jalandhar,Punjab,2024-02-10,Platinum,5,105230.74
+CUST00000342,male,20,18-25,Surat,Gujarat,2023-06-06,Platinum,4,189845.72
+CUST00000343,female,18,18-25,Howrah,"West Bengal",2023-10-12,Platinum,7,163968.77
+CUST00000344,female,24,18-25,Amritsar,Punjab,2024-04-02,Platinum,4,158077.96
+CUST00000345,female,53,46-55,Kota,Rajasthan,2023-11-20,Gold,2,25653.31
+CUST00000346,male,29,26-35,Surat,Gujarat,2023-10-08,Gold,4,49283.82
+CUST00000347,male,21,18-25,Sohna,Haryana,2023-06-12,Silver,0,0
+CUST00000348,female,43,36-45,Sohna,Haryana,2023-10-13,Platinum,6,70964
+CUST00000349,female,39,36-45,"New Delhi",Delhi,2023-07-29,Platinum,3,117008.51
+CUST00000350,female,21,18-25,Mangalore,Karnataka,2023-06-12,Gold,2,48294.91
+CUST00000351,male,34,26-35,Palwal,Haryana,2024-05-16,Platinum,5,61818.56
+CUST00000352,female,34,26-35,Ahmedabad,Gujarat,2024-03-30,Platinum,4,89999.05
+CUST00000353,male,42,36-45,Kolkata,"West Bengal",2023-11-07,Gold,7,45540.62
+CUST00000354,male,28,26-35,Madurai,"Tamil Nadu",2023-10-15,Platinum,7,147930.35
+CUST00000355,male,19,18-25,Kolkata,"West Bengal",2023-08-10,Platinum,6,119630.16
+CUST00000356,male,37,36-45,Howrah,"West Bengal",2023-10-11,Platinum,5,97592.09
+CUST00000357,female,27,26-35,Patiala,Punjab,2023-12-31,Platinum,6,191236.55
+CUST00000358,male,51,46-55,Coimbatore,"Tamil Nadu",2024-05-06,Platinum,3,65394.66
+CUST00000359,male,51,46-55,Mysore,Karnataka,2023-08-16,Silver,0,0
+CUST00000360,female,52,46-55,Mangalore,Karnataka,2023-08-09,Silver,4,6299.53
+CUST00000361,male,19,18-25,Thane,Maharashtra,2023-09-12,Gold,5,44423.95
+CUST00000362,female,51,46-55,Howrah,"West Bengal",2023-12-25,Silver,0,0
+CUST00000363,male,21,18-25,Mangalore,Karnataka,2024-04-08,Platinum,9,201225.05
+CUST00000364,female,22,18-25,Madurai,"Tamil Nadu",2023-11-27,Platinum,4,224853.24
+CUST00000365,male,50,46-55,Mumbai,Maharashtra,2024-04-06,Gold,2,44365.14
+CUST00000366,female,50,46-55,Noida,UP,2023-10-24,Platinum,5,63467.03
+CUST00000367,male,30,26-35,Jodhpur,Rajasthan,2024-02-16,Platinum,8,508481.76
+CUST00000368,male,25,18-25,Chennai,"Tamil Nadu",2023-07-04,Platinum,8,192775.04
+CUST00000369,male,18,18-25,Agra,UP,2024-01-28,Platinum,6,135733.87
+CUST00000370,female,59,56-65,Surat,Gujarat,2023-07-26,Platinum,8,56139.14
+CUST00000371,male,21,18-25,Varanasi,UP,2023-08-06,Platinum,8,143737.2
+CUST00000372,male,33,26-35,Coimbatore,"Tamil Nadu",2023-09-15,Gold,4,40202.13
+CUST00000373,female,39,36-45,Varanasi,UP,2024-04-30,Silver,3,7425.59
+CUST00000374,male,36,36-45,Durgapur,"West Bengal",2023-06-14,Platinum,7,280977.53
+CUST00000375,male,41,36-45,Chennai,"Tamil Nadu",2023-12-16,Platinum,3,108389.34
+CUST00000376,male,28,26-35,Panipat,Haryana,2023-06-29,Platinum,7,168845.94
+CUST00000377,female,20,18-25,Nagpur,Maharashtra,2023-10-19,Gold,6,37143.98
+CUST00000378,female,38,36-45,Thane,Maharashtra,2023-06-08,Platinum,4,454976.72
+CUST00000379,female,31,26-35,Panipat,Haryana,2024-05-18,Platinum,7,411723.73
+CUST00000380,female,20,18-25,Amritsar,Punjab,2023-12-11,Silver,2,5061.19
+CUST00000381,female,59,56-65,Panipat,Haryana,2024-04-02,Silver,4,19295.72
+CUST00000382,male,40,36-45,Surat,Gujarat,2023-12-28,Silver,1,8727.88
+CUST00000383,female,44,36-45,Kolkata,"West Bengal",2024-03-08,Platinum,3,126906.81
+CUST00000384,male,27,26-35,Agra,UP,2023-11-25,Gold,5,36467.65
+CUST00000385,female,49,46-55,Thane,Maharashtra,2024-04-30,Silver,5,11173.95
+CUST00000386,male,23,18-25,Jaipur,Rajasthan,2024-05-23,Gold,1,31895.68
+CUST00000387,male,18,18-25,Panipat,Haryana,2023-06-27,Platinum,7,379739.28
+CUST00000388,male,31,26-35,Pune,Maharashtra,2023-06-23,Gold,3,22451.44
+CUST00000389,male,42,36-45,Bangalore,Karnataka,2023-08-17,Platinum,4,63674.15
+CUST00000390,male,64,56-65,Mangalore,Karnataka,2023-12-12,Silver,3,3948.96
+CUST00000391,male,28,26-35,Ahmedabad,Gujarat,2023-06-23,Platinum,7,302844.34
+CUST00000392,male,24,18-25,Udaipur,Rajasthan,2023-12-21,Platinum,7,169606.93
+CUST00000393,male,21,18-25,Dwarka,Delhi,2023-12-30,Platinum,6,117067.61
+CUST00000394,male,38,36-45,Chennai,"Tamil Nadu",2023-09-07,Platinum,9,589436.31
+CUST00000395,male,34,26-35,Chennai,"Tamil Nadu",2024-02-08,Platinum,6,133619.3
+CUST00000396,male,38,36-45,Patiala,Punjab,2024-04-27,Platinum,7,159890.72
+CUST00000397,female,66,65+,Sohna,Haryana,2023-10-03,Gold,4,22011.7
+CUST00000398,female,33,26-35,Mumbai,Maharashtra,2023-12-21,Gold,3,40027.79
+CUST00000399,male,18,18-25,Sohna,Haryana,2023-07-25,Platinum,6,217174.96
+CUST00000400,female,52,46-55,Amritsar,Punjab,2023-12-13,Gold,5,31355.1
+CUST00000401,male,25,18-25,Mangalore,Karnataka,2024-03-27,Platinum,7,150136.58
+CUST00000402,female,28,26-35,Amritsar,Punjab,2024-01-31,Platinum,11,354030.26
+CUST00000403,male,66,65+,Kota,Rajasthan,2024-01-20,Silver,3,9820.04
+CUST00000404,male,26,26-35,Palwal,Haryana,2023-11-05,Platinum,4,71269.78
+CUST00000405,female,26,26-35,Agra,UP,2024-02-12,Platinum,8,278720.69
+CUST00000406,female,63,56-65,Thane,Maharashtra,2023-10-18,Silver,5,7595.27
+CUST00000407,male,34,26-35,"New Delhi",Delhi,2024-04-04,Platinum,7,217593.88
+CUST00000408,female,57,56-65,Mumbai,Maharashtra,2023-08-12,Gold,7,22040.3
+CUST00000409,female,32,26-35,Alwar,Rajasthan,2023-08-13,Platinum,5,272489.56
+CUST00000410,male,19,18-25,Udaipur,Rajasthan,2024-02-28,Platinum,5,99874.76
+CUST00000411,female,27,26-35,Patiala,Punjab,2023-12-25,Platinum,8,236722.09
+CUST00000412,male,46,46-55,Kota,Rajasthan,2023-10-26,Gold,8,46839.91
+CUST00000413,male,35,26-35,Thane,Maharashtra,2024-02-04,Platinum,5,67948.23
+CUST00000414,female,40,36-45,Jalandhar,Punjab,2024-03-18,Silver,1,6954.7
+CUST00000415,male,34,26-35,Jaipur,Rajasthan,2023-06-29,Platinum,5,121534.49
+CUST00000416,female,69,65+,Sohna,Haryana,2024-04-24,Gold,7,32540.49
+CUST00000417,female,25,18-25,Mangalore,Karnataka,2023-11-19,Platinum,8,190728.86
+CUST00000418,male,18,18-25,Udaipur,Rajasthan,2024-01-06,Platinum,6,211891.25
+CUST00000419,male,48,46-55,Mysore,Karnataka,2023-08-06,Gold,2,47297.55
+CUST00000420,female,35,26-35,Palwal,Haryana,2024-04-02,Platinum,6,309963.02
+CUST00000421,female,41,36-45,Patiala,Punjab,2023-06-14,Platinum,7,201868.75
+CUST00000422,male,28,26-35,Patiala,Punjab,2024-05-18,Platinum,2,98464.25
+CUST00000423,female,27,26-35,Patiala,Punjab,2023-09-24,Platinum,6,163506.62
+CUST00000424,male,28,26-35,Amritsar,Punjab,2023-12-28,Platinum,4,94348.63
+CUST00000425,female,38,36-45,Howrah,"West Bengal",2024-01-21,Platinum,6,64049.59
+CUST00000426,female,27,26-35,Faridabad,Haryana,2024-03-25,Platinum,7,162727.49
+CUST00000427,female,41,36-45,Jaipur,Rajasthan,2024-05-28,Platinum,1,50385.12
+CUST00000428,female,20,18-25,Kolkata,"West Bengal",2024-03-20,Platinum,3,354815.12
+CUST00000429,male,37,36-45,Mumbai,Maharashtra,2024-01-03,Platinum,5,201511.53
+CUST00000430,male,40,36-45,Durgapur,"West Bengal",2023-11-03,Platinum,3,50375.82
+CUST00000431,male,52,46-55,Udaipur,Rajasthan,2023-09-02,Platinum,3,75053.94
+CUST00000432,male,31,26-35,Durgapur,"West Bengal",2024-01-02,Gold,5,41693.57
+CUST00000433,female,31,26-35,Durgapur,"West Bengal",2024-01-03,Silver,1,18163.08
+CUST00000434,female,44,36-45,Madurai,"Tamil Nadu",2023-09-02,Platinum,6,122759.9
+CUST00000435,female,20,18-25,Panipat,Haryana,2023-10-21,Platinum,3,50167.15
+CUST00000436,female,62,56-65,Panipat,Haryana,2023-12-28,Silver,2,453.24
+CUST00000437,female,42,36-45,Kanpur,UP,2024-05-13,Platinum,6,92659.18
+CUST00000438,female,38,36-45,Rajkot,Gujarat,2024-05-06,Platinum,7,238054.35
+CUST00000439,female,55,46-55,Gurugram,Haryana,2023-10-05,Silver,4,15474.84
+CUST00000440,male,35,26-35,Dwarka,Delhi,2023-11-02,Platinum,3,107123.37
+CUST00000441,female,60,56-65,Mysore,Karnataka,2023-07-08,Platinum,8,114476.83
+CUST00000442,female,33,26-35,Chennai,"Tamil Nadu",2023-10-26,Platinum,5,79308.05
+CUST00000443,male,26,26-35,Coimbatore,"Tamil Nadu",2024-01-03,Platinum,8,280370.5
+CUST00000444,male,39,36-45,Dwarka,Delhi,2023-09-30,Silver,2,695.95
+CUST00000445,female,37,36-45,"New Delhi",Delhi,2023-11-04,Platinum,4,76181.92
+CUST00000446,male,29,26-35,Mysore,Karnataka,2024-04-23,Silver,1,10305.78
+CUST00000447,male,28,26-35,Ahmedabad,Gujarat,2023-12-25,Platinum,5,285405.28
+CUST00000448,male,44,36-45,Durgapur,"West Bengal",2023-10-10,Platinum,6,137245.09
+CUST00000449,female,28,26-35,Palwal,Haryana,2024-01-25,Platinum,4,104035.77
+CUST00000450,female,49,46-55,Mysore,Karnataka,2023-09-30,Platinum,4,51807.81
+CUST00000451,male,35,26-35,Kanpur,UP,2023-10-27,Platinum,6,226202.17
+CUST00000452,male,20,18-25,Coimbatore,"Tamil Nadu",2024-01-29,Gold,5,38566.2
+CUST00000453,female,30,26-35,Alwar,Rajasthan,2023-10-23,Gold,5,40742.43
+CUST00000454,male,46,46-55,Ahmedabad,Gujarat,2023-06-12,Gold,7,41312.79
+CUST00000455,female,45,36-45,Madurai,"Tamil Nadu",2023-07-29,Silver,4,17371.51
+CUST00000456,male,23,18-25,Howrah,"West Bengal",2024-02-06,Platinum,7,125934.4
+CUST00000457,male,27,26-35,"New Delhi",Delhi,2023-09-03,Gold,2,49016.2
+CUST00000458,female,40,36-45,Alwar,Rajasthan,2023-08-14,Platinum,5,110523.94
+CUST00000459,male,29,26-35,Panipat,Haryana,2024-03-24,Platinum,3,130872.88
+CUST00000460,male,67,65+,Mumbai,Maharashtra,2024-01-22,Silver,3,12720.25
+CUST00000461,male,32,26-35,"New Delhi",Delhi,2023-10-12,Platinum,2,91728.83
+CUST00000462,male,60,56-65,Amritsar,Punjab,2023-10-15,Gold,4,21168.53
+CUST00000463,female,55,46-55,Lucknow,UP,2023-08-10,Gold,5,37082.18
+CUST00000464,female,27,26-35,Pune,Maharashtra,2023-11-07,Platinum,7,130331.93
+CUST00000465,male,29,26-35,Amritsar,Punjab,2023-06-18,Platinum,4,77473.1
+CUST00000466,male,70,65+,Mumbai,Maharashtra,2024-03-23,Gold,5,38898.59
+CUST00000467,male,22,18-25,Jodhpur,Rajasthan,2024-01-23,Platinum,6,195982.09
+CUST00000468,female,46,46-55,Madurai,"Tamil Nadu",2023-06-26,Platinum,7,83931.97
+CUST00000469,male,40,36-45,Lucknow,UP,2024-05-19,Platinum,4,67059.67
+CUST00000470,female,35,26-35,Jaipur,Rajasthan,2023-11-15,Platinum,3,118913.22
+CUST00000471,female,72,65+,"Delhi NCR",Delhi,2024-03-05,Platinum,6,132657.19
+CUST00000472,female,29,26-35,Udaipur,Rajasthan,2023-07-02,Silver,2,13347.41
+CUST00000473,female,22,18-25,Mumbai,Maharashtra,2023-08-22,Platinum,4,75577.83
+CUST00000474,female,37,36-45,Amritsar,Punjab,2023-09-03,Platinum,7,222845.85
+CUST00000475,male,24,18-25,"Delhi NCR",Delhi,2023-08-19,Gold,2,32728.96
+CUST00000476,male,35,26-35,Surat,Gujarat,2023-07-21,Platinum,5,428889.45
+CUST00000477,female,74,65+,"New Delhi",Delhi,2023-07-18,Gold,5,36069.42
+CUST00000478,male,32,26-35,"Delhi NCR",Delhi,2023-09-05,Platinum,7,89190.81
+CUST00000479,female,32,26-35,Kolkata,"West Bengal",2023-09-27,Platinum,4,111332.78
+CUST00000480,female,33,26-35,Varanasi,UP,2023-08-24,Platinum,7,99349.38
+CUST00000481,female,62,56-65,Dwarka,Delhi,2024-03-08,Platinum,6,76741.79
+CUST00000482,male,29,26-35,Pune,Maharashtra,2024-03-01,Platinum,7,335478.56
+CUST00000483,male,40,36-45,Dwarka,Delhi,2023-11-14,Platinum,8,148801.08
+CUST00000484,female,22,18-25,Bangalore,Karnataka,2024-05-02,Platinum,5,234083.38
+CUST00000485,male,23,18-25,Rajkot,Gujarat,2024-03-27,Gold,3,39016.15
+CUST00000486,female,20,18-25,Coimbatore,"Tamil Nadu",2023-06-23,Platinum,3,296497.08
+CUST00000487,male,54,46-55,Jaipur,Rajasthan,2023-10-26,Silver,3,18612.4
+CUST00000488,female,18,18-25,Jalandhar,Punjab,2023-12-17,Silver,3,14681.29
+CUST00000489,male,34,26-35,Ludhiana,Punjab,2023-11-05,Platinum,7,200858.71
+CUST00000490,male,31,26-35,Faridabad,Haryana,2023-09-12,Platinum,5,102096.64
+CUST00000491,male,33,26-35,Madurai,"Tamil Nadu",2023-08-07,Platinum,8,321860.87
+CUST00000492,male,30,26-35,Lucknow,UP,2023-06-10,Platinum,5,173945.31
+CUST00000493,male,37,36-45,Kolkata,"West Bengal",2024-05-11,Platinum,4,259384.57
+CUST00000494,female,58,56-65,Pune,Maharashtra,2024-05-20,Silver,2,4416.28
+CUST00000495,male,40,36-45,Lucknow,UP,2023-09-06,Platinum,6,247102.1
+CUST00000496,female,25,18-25,Jalandhar,Punjab,2023-09-15,Platinum,6,50398.89
+CUST00000497,male,42,36-45,Amritsar,Punjab,2023-07-26,Platinum,10,361990.98
+CUST00000498,female,34,26-35,Jaipur,Rajasthan,2024-02-25,Gold,3,33936.74
+CUST00000499,male,73,65+,Kanpur,UP,2024-02-29,Gold,3,46316.42
+CUST00000500,female,37,36-45,Coimbatore,"Tamil Nadu",2024-04-13,Platinum,3,62338.39
+CUST00000501,female,21,18-25,Rajkot,Gujarat,2023-12-13,Gold,6,45470.91
+CUST00000502,female,19,18-25,Chennai,"Tamil Nadu",2024-01-02,Platinum,5,63662.24
+CUST00000503,female,23,18-25,Panipat,Haryana,2023-12-31,Platinum,7,222621.3
+CUST00000504,male,35,26-35,Faridabad,Haryana,2024-02-01,Platinum,4,65440.72
+CUST00000505,male,36,36-45,Dwarka,Delhi,2023-08-09,Silver,3,12480.36
+CUST00000506,male,43,36-45,"Delhi NCR",Delhi,2024-05-21,Platinum,8,112866.59
+CUST00000507,female,32,26-35,Patiala,Punjab,2024-05-23,Silver,4,18468.98
+CUST00000508,female,38,36-45,Coimbatore,"Tamil Nadu",2023-08-09,Platinum,3,50586.67
+CUST00000509,female,45,36-45,Mumbai,Maharashtra,2024-03-25,Platinum,7,228164.8
+CUST00000510,male,22,18-25,Faridabad,Haryana,2023-08-20,Platinum,7,221279.12
+CUST00000511,male,42,36-45,Faridabad,Haryana,2023-10-28,Platinum,10,249186.34
+CUST00000512,female,39,36-45,Varanasi,UP,2023-12-10,Platinum,5,142078.32
+CUST00000513,male,62,56-65,Jodhpur,Rajasthan,2024-03-30,Platinum,6,119757.76
+CUST00000514,male,63,56-65,Mumbai,Maharashtra,2024-05-11,Silver,2,1928.26
+CUST00000515,female,53,46-55,Kanpur,UP,2024-02-16,Silver,5,16558.43
+CUST00000516,male,38,36-45,Mysore,Karnataka,2023-09-23,Platinum,5,101394.22
+CUST00000517,female,25,18-25,Pune,Maharashtra,2024-03-27,Platinum,5,90120.52
+CUST00000518,female,38,36-45,Amritsar,Punjab,2024-03-11,Gold,3,25949.14
+CUST00000519,male,28,26-35,Agra,UP,2023-09-12,Platinum,3,125753.15
+CUST00000520,male,35,26-35,Jalandhar,Punjab,2024-05-06,Platinum,4,137095.79
+CUST00000521,male,28,26-35,Mysore,Karnataka,2023-10-22,Platinum,10,271735.02
+CUST00000522,male,42,36-45,Palwal,Haryana,2024-04-27,Platinum,8,196527.7
+CUST00000523,female,30,26-35,Surat,Gujarat,2024-04-07,Platinum,5,111563.01
+CUST00000524,female,35,26-35,Kota,Rajasthan,2023-07-30,Platinum,2,84219.79
+CUST00000525,female,34,26-35,Mangalore,Karnataka,2023-06-26,Gold,2,45855.8
+CUST00000526,female,32,26-35,Mumbai,Maharashtra,2024-02-12,Platinum,6,185148.99
+CUST00000527,female,34,26-35,Ludhiana,Punjab,2024-01-13,Platinum,4,109816.73
+CUST00000528,female,29,26-35,Surat,Gujarat,2023-08-14,Platinum,3,106989.8
+CUST00000529,male,18,18-25,Bangalore,Karnataka,2023-07-25,Gold,4,23452.46
+CUST00000530,female,23,18-25,Patiala,Punjab,2023-07-29,Platinum,5,187040.79
+CUST00000531,female,56,56-65,Chennai,"Tamil Nadu",2023-09-27,Platinum,8,76379.11
+CUST00000532,female,24,18-25,Gurugram,Haryana,2024-03-28,Platinum,4,202811.04
+CUST00000533,male,25,18-25,Varanasi,UP,2024-03-07,Platinum,6,213069.38
+CUST00000534,female,58,56-65,Faridabad,Haryana,2023-11-11,Silver,4,11137.33
+CUST00000535,female,26,26-35,Ahmedabad,Gujarat,2023-07-24,Platinum,3,114227.27
+CUST00000536,female,18,18-25,Sohna,Haryana,2023-11-10,Silver,3,11057.17
+CUST00000537,female,27,26-35,Madurai,"Tamil Nadu",2023-10-15,Platinum,5,167897.67
+CUST00000538,male,37,36-45,Noida,UP,2024-03-21,Platinum,7,118651.21
+CUST00000539,male,45,36-45,Udaipur,Rajasthan,2024-01-16,Platinum,11,260464.36
+CUST00000540,male,27,26-35,Vadodara,Gujarat,2023-06-25,Platinum,5,126601.55
+CUST00000541,male,69,65+,Pune,Maharashtra,2024-05-24,Silver,3,3212.15
+CUST00000542,male,29,26-35,Kolkata,"West Bengal",2024-02-20,Platinum,7,75035.92
+CUST00000543,male,25,18-25,Dwarka,Delhi,2024-03-19,Silver,2,5556.28
+CUST00000544,female,30,26-35,Patiala,Punjab,2024-03-26,Silver,2,18898.59
+CUST00000545,female,39,36-45,Varanasi,UP,2024-05-28,Platinum,4,90700.29
+CUST00000546,male,35,26-35,Amritsar,Punjab,2024-03-05,Gold,2,30749.68
+CUST00000547,female,35,26-35,Vadodara,Gujarat,2023-11-22,Platinum,5,82031.94
+CUST00000548,male,28,26-35,Surat,Gujarat,2023-06-10,Platinum,3,73133.56
+CUST00000549,male,60,56-65,"New Delhi",Delhi,2023-07-24,Platinum,5,69675.43
+CUST00000550,female,44,36-45,Nagpur,Maharashtra,2023-07-28,Gold,2,20021.82
+CUST00000551,female,39,36-45,Durgapur,"West Bengal",2024-04-07,Platinum,6,121953.24
+CUST00000552,female,26,26-35,Madurai,"Tamil Nadu",2024-05-09,Platinum,1,82519.22
+CUST00000553,male,28,26-35,Nagpur,Maharashtra,2024-05-07,Platinum,6,181467.9
+CUST00000554,female,27,26-35,Nagpur,Maharashtra,2024-03-20,Platinum,4,116184.4
+CUST00000555,female,18,18-25,Durgapur,"West Bengal",2023-07-28,Gold,7,44067.68
+CUST00000556,male,44,36-45,Coimbatore,"Tamil Nadu",2024-05-16,Platinum,5,219270.54
+CUST00000557,female,25,18-25,Agra,UP,2023-09-02,Platinum,6,99687.13
+CUST00000558,female,64,56-65,Agra,UP,2023-08-23,Gold,7,33827.69
+CUST00000559,male,53,46-55,Noida,UP,2023-12-16,Silver,2,3339.14
+CUST00000560,female,36,36-45,Nagpur,Maharashtra,2023-12-29,Platinum,5,164955.5
+CUST00000561,female,40,36-45,Chennai,"Tamil Nadu",2023-12-14,Platinum,9,290489.58
+CUST00000562,male,40,36-45,Kolkata,"West Bengal",2024-01-09,Platinum,6,62991.05
+CUST00000563,female,44,36-45,Coimbatore,"Tamil Nadu",2023-07-20,Gold,4,46698.86
+CUST00000564,male,51,46-55,Patiala,Punjab,2023-12-28,Silver,3,8538.73
+CUST00000565,female,31,26-35,Kanpur,UP,2023-07-25,Platinum,7,100537.13
+CUST00000566,female,24,18-25,Surat,Gujarat,2023-07-25,Platinum,5,227484.62
+CUST00000567,female,24,18-25,Noida,UP,2024-03-20,Platinum,9,186895.76
+CUST00000568,male,29,26-35,Alwar,Rajasthan,2023-09-17,Platinum,7,175897.47
+CUST00000569,male,39,36-45,Gurugram,Haryana,2023-11-07,Platinum,5,153686.74
+CUST00000570,male,49,46-55,Kolkata,"West Bengal",2023-08-31,Silver,5,8523.26
+CUST00000571,female,54,46-55,Surat,Gujarat,2024-01-13,Gold,6,30200.42
+CUST00000572,male,43,36-45,Palwal,Haryana,2023-11-08,Platinum,9,396847.15
+CUST00000573,male,50,46-55,Coimbatore,"Tamil Nadu",2023-12-24,Platinum,9,76015.68
+CUST00000574,female,52,46-55,Agra,UP,2024-05-01,Platinum,5,63003.7
+CUST00000575,male,35,26-35,Jaipur,Rajasthan,2024-03-16,Platinum,4,80096.7
+CUST00000576,female,35,26-35,"Delhi NCR",Delhi,2024-05-18,Platinum,5,151937.7
+CUST00000577,male,47,46-55,Faridabad,Haryana,2024-03-28,Gold,3,24271.27
+CUST00000578,female,75,65+,Jalandhar,Punjab,2023-06-21,Platinum,8,54116.51
+CUST00000579,female,21,18-25,Chennai,"Tamil Nadu",2024-02-23,Platinum,4,54629.87
+CUST00000580,male,46,46-55,Jodhpur,Rajasthan,2024-03-06,Platinum,4,56411.62
+CUST00000581,female,29,26-35,Jaipur,Rajasthan,2024-04-08,Platinum,9,270436.22
+CUST00000582,female,27,26-35,Mangalore,Karnataka,2023-06-02,Platinum,7,138061.82
+CUST00000583,male,31,26-35,Palwal,Haryana,2023-09-20,Platinum,6,128604.19
+CUST00000584,male,44,36-45,Pune,Maharashtra,2023-08-24,Silver,4,7088.9
+CUST00000585,female,50,46-55,Vadodara,Gujarat,2023-10-24,Silver,3,17143.93
+CUST00000586,male,28,26-35,Sohna,Haryana,2024-05-29,Platinum,8,148576.16
+CUST00000587,male,41,36-45,"New Delhi",Delhi,2023-06-14,Platinum,6,64281.56
+CUST00000588,male,32,26-35,Udaipur,Rajasthan,2024-04-22,Platinum,8,349962.88
+CUST00000589,female,27,26-35,Palwal,Haryana,2023-11-25,Platinum,5,57328.61
+CUST00000590,female,50,46-55,Varanasi,UP,2024-01-19,Platinum,10,53808.37
+CUST00000591,male,38,36-45,Pune,Maharashtra,2024-02-09,Platinum,3,50570.22
+CUST00000592,female,35,26-35,Agra,UP,2023-08-19,Platinum,9,237531.11
+CUST00000593,female,29,26-35,Mysore,Karnataka,2023-06-29,Platinum,7,444383.25
+CUST00000594,female,21,18-25,Noida,UP,2023-11-23,Platinum,4,150696.22
+CUST00000595,female,19,18-25,Kanpur,UP,2024-01-29,Platinum,3,82898.82
+CUST00000596,male,27,26-35,Agra,UP,2024-04-26,Silver,1,6290.14
+CUST00000597,male,31,26-35,Madurai,"Tamil Nadu",2024-02-03,Platinum,3,155401.46
+CUST00000598,male,35,26-35,Chennai,"Tamil Nadu",2024-04-16,Platinum,5,208914.73
+CUST00000599,male,68,65+,Chennai,"Tamil Nadu",2024-02-23,Gold,7,38198.66
+CUST00000600,female,30,26-35,"Delhi NCR",Delhi,2023-07-01,Platinum,3,115978.78
+CUST00000601,female,33,26-35,Pune,Maharashtra,2023-10-05,Platinum,3,121008.55
+CUST00000602,male,26,26-35,Jaipur,Rajasthan,2023-06-30,Platinum,4,100292.27
+CUST00000603,female,27,26-35,Patiala,Punjab,2023-11-19,Platinum,8,221096.41
+CUST00000604,female,51,46-55,Agra,UP,2023-06-11,Gold,5,35966.85
+CUST00000605,female,18,18-25,Rajkot,Gujarat,2023-09-30,Platinum,4,220856.11
+CUST00000606,female,33,26-35,Ludhiana,Punjab,2023-08-24,Platinum,5,144303.96
+CUST00000607,male,28,26-35,Kolkata,"West Bengal",2023-11-13,Platinum,4,79052.35
+CUST00000608,male,23,18-25,Vadodara,Gujarat,2024-04-11,Gold,7,22536.83
+CUST00000609,male,30,26-35,"New Delhi",Delhi,2023-09-26,Platinum,5,168431.37
+CUST00000610,male,33,26-35,Jalandhar,Punjab,2023-11-04,Gold,2,38341.29
+CUST00000611,female,22,18-25,Jodhpur,Rajasthan,2023-12-03,Platinum,4,136463.62
+CUST00000612,female,57,56-65,Madurai,"Tamil Nadu",2024-05-06,Platinum,5,110604.75
+CUST00000613,male,26,26-35,Jalandhar,Punjab,2023-12-21,Platinum,3,52931.52
+CUST00000614,female,45,36-45,Patiala,Punjab,2023-08-27,Platinum,3,160459.41
+CUST00000615,female,53,46-55,Nagpur,Maharashtra,2023-11-08,Gold,3,21839.6
+CUST00000616,male,33,26-35,Dwarka,Delhi,2023-06-21,Platinum,5,248256.2
+CUST00000617,male,20,18-25,Coimbatore,"Tamil Nadu",2023-09-08,Platinum,5,109398.75
+CUST00000618,female,35,26-35,Thane,Maharashtra,2024-03-03,Platinum,8,146342.42
+CUST00000619,male,33,26-35,Howrah,"West Bengal",2024-05-18,Platinum,4,304280.74
+CUST00000620,male,37,36-45,Jalandhar,Punjab,2023-06-27,Platinum,2,145611.81
+CUST00000621,male,29,26-35,Ludhiana,Punjab,2024-04-30,Gold,4,39945.59
+CUST00000622,female,46,46-55,Howrah,"West Bengal",2024-05-15,Gold,6,28087.21
+CUST00000623,male,42,36-45,Agra,UP,2024-03-12,Platinum,5,69561.85
+CUST00000624,female,52,46-55,Gurugram,Haryana,2023-11-09,Platinum,4,50422.43
+CUST00000625,female,32,26-35,Jalandhar,Punjab,2023-07-22,Platinum,6,122843.57
+CUST00000626,male,43,36-45,Udaipur,Rajasthan,2023-07-13,Platinum,7,290902.49
+CUST00000627,female,55,46-55,Gurugram,Haryana,2024-04-22,Gold,4,22263.86
+CUST00000628,male,19,18-25,"Delhi NCR",Delhi,2023-12-12,Gold,2,30326.32
+CUST00000629,male,20,18-25,Coimbatore,"Tamil Nadu",2024-01-26,Platinum,5,74661.14
+CUST00000630,female,42,36-45,Noida,UP,2024-05-20,Platinum,7,174196.78
+CUST00000631,female,33,26-35,Ludhiana,Punjab,2023-09-11,Platinum,2,51032.55
+CUST00000632,female,23,18-25,Vadodara,Gujarat,2023-09-06,Platinum,6,109725.13
+CUST00000633,male,45,36-45,Jalandhar,Punjab,2023-08-19,Platinum,5,372915.6
+CUST00000634,male,55,46-55,Madurai,"Tamil Nadu",2024-05-26,Gold,2,24329.6
+CUST00000635,female,34,26-35,Surat,Gujarat,2023-07-03,Silver,1,3103.1
+CUST00000636,female,64,56-65,Sohna,Haryana,2024-05-29,Gold,5,25278.61
+CUST00000637,male,28,26-35,Bangalore,Karnataka,2024-05-10,Silver,2,3931.26
+CUST00000638,male,38,36-45,"New Delhi",Delhi,2024-04-27,Platinum,7,209091.08
+CUST00000639,male,65,56-65,Dwarka,Delhi,2024-04-18,Platinum,8,58586.17
+CUST00000640,female,25,18-25,Kota,Rajasthan,2023-10-04,Platinum,5,163055.04
+CUST00000641,female,37,36-45,"Delhi NCR",Delhi,2023-08-07,Platinum,6,208985.52
+CUST00000642,male,24,18-25,Mangalore,Karnataka,2024-02-16,Silver,3,12518.79
+CUST00000643,female,18,18-25,Jaipur,Rajasthan,2024-04-27,Silver,1,10516.6
+CUST00000644,male,34,26-35,Varanasi,UP,2024-03-30,Platinum,4,112118.89
+CUST00000645,female,43,36-45,Patiala,Punjab,2023-10-14,Platinum,5,134792.32
+CUST00000646,female,43,36-45,Kanpur,UP,2024-03-24,Platinum,5,143100.32
+CUST00000647,male,42,36-45,Thane,Maharashtra,2023-10-09,Platinum,8,113396.07
+CUST00000648,female,24,18-25,Durgapur,"West Bengal",2023-09-08,Platinum,5,589865.75
+CUST00000649,female,31,26-35,Durgapur,"West Bengal",2023-12-12,Platinum,7,179678.23
+CUST00000650,female,30,26-35,Ludhiana,Punjab,2024-05-18,Platinum,6,223079.12
+CUST00000651,female,34,26-35,Varanasi,UP,2023-09-13,Platinum,10,249480.9
+CUST00000652,female,42,36-45,Bangalore,Karnataka,2024-03-02,Platinum,5,160237.05
+CUST00000653,female,32,26-35,Varanasi,UP,2023-11-26,Platinum,6,111909.55
+CUST00000654,female,28,26-35,Mysore,Karnataka,2024-03-26,Platinum,8,225074.92
+CUST00000655,female,65,56-65,Panipat,Haryana,2023-11-07,Gold,4,34660.48
+CUST00000656,female,45,36-45,Vadodara,Gujarat,2023-08-05,Platinum,3,54826.44
+CUST00000657,female,34,26-35,Jodhpur,Rajasthan,2024-04-29,Platinum,6,307653.39
+CUST00000658,female,19,18-25,Mysore,Karnataka,2024-04-22,Platinum,6,68484.39
+CUST00000659,female,44,36-45,Palwal,Haryana,2023-10-28,Platinum,5,72029.17
+CUST00000660,male,37,36-45,Udaipur,Rajasthan,2023-07-28,Platinum,8,142770.15
+CUST00000661,male,71,65+,"Delhi NCR",Delhi,2024-04-19,Gold,4,24905.58
+CUST00000662,male,20,18-25,Palwal,Haryana,2024-02-29,Platinum,6,172062.67
+CUST00000663,male,42,36-45,Panipat,Haryana,2023-09-11,Platinum,6,454713.65
+CUST00000664,female,35,26-35,Rajkot,Gujarat,2024-03-10,Platinum,10,232177.59
+CUST00000665,male,38,36-45,Jaipur,Rajasthan,2023-07-27,Platinum,7,151829.18
+CUST00000666,female,40,36-45,Noida,UP,2023-10-17,Platinum,4,101796.45
+CUST00000667,female,39,36-45,"Delhi NCR",Delhi,2023-09-18,Platinum,6,129152.77
+CUST00000668,male,35,26-35,Kolkata,"West Bengal",2024-02-22,Platinum,7,133511.23
+CUST00000669,male,39,36-45,Udaipur,Rajasthan,2023-10-07,Platinum,11,332318.26
+CUST00000670,female,23,18-25,Durgapur,"West Bengal",2024-02-05,Platinum,6,94578.64
+CUST00000671,female,22,18-25,Agra,UP,2023-10-19,Platinum,2,73583.79
+CUST00000672,male,57,56-65,Vadodara,Gujarat,2023-06-02,Silver,9,15950.34
+CUST00000673,male,46,46-55,Varanasi,UP,2024-03-29,Gold,6,36297.04
+CUST00000674,female,45,36-45,Noida,UP,2024-01-02,Gold,5,28661.05
+CUST00000675,female,36,36-45,Sohna,Haryana,2023-06-24,Silver,5,6327.42
+CUST00000676,female,34,26-35,Lucknow,UP,2023-07-21,Platinum,6,298968.61
+CUST00000677,female,21,18-25,Nagpur,Maharashtra,2024-03-20,Platinum,7,135906.33
+CUST00000678,female,43,36-45,Mumbai,Maharashtra,2023-12-16,Platinum,5,231149.32
+CUST00000679,male,43,36-45,Ahmedabad,Gujarat,2023-12-28,Platinum,5,88707.71
+CUST00000680,male,53,46-55,Surat,Gujarat,2023-09-11,Silver,3,9545.3
+CUST00000681,female,31,26-35,Coimbatore,"Tamil Nadu",2023-08-02,Platinum,2,60840.52
+CUST00000682,female,51,46-55,Thane,Maharashtra,2024-03-14,Platinum,9,75316.93
+CUST00000683,female,53,46-55,Madurai,"Tamil Nadu",2023-10-01,Silver,5,10999.37
+CUST00000684,male,21,18-25,Jaipur,Rajasthan,2023-12-20,Platinum,4,99744.47
+CUST00000685,female,24,18-25,Kolkata,"West Bengal",2023-10-26,Silver,3,1943.72
+CUST00000686,female,21,18-25,Chennai,"Tamil Nadu",2024-01-19,Platinum,5,56663.14
+CUST00000687,male,29,26-35,Nagpur,Maharashtra,2023-10-11,Platinum,5,168677.11
+CUST00000688,male,18,18-25,Jodhpur,Rajasthan,2023-12-28,Silver,4,12694.54
+CUST00000689,male,21,18-25,Ahmedabad,Gujarat,2023-08-30,Platinum,8,63768.28
+CUST00000690,female,21,18-25,Mangalore,Karnataka,2023-08-03,Platinum,10,213135.98
+CUST00000691,female,23,18-25,Ludhiana,Punjab,2024-04-08,Platinum,3,176939.55
+CUST00000692,female,21,18-25,Faridabad,Haryana,2024-03-01,Gold,4,21518.99
+CUST00000693,male,20,18-25,Patiala,Punjab,2023-08-25,Platinum,6,68775.49
+CUST00000694,female,35,26-35,Mysore,Karnataka,2024-03-13,Platinum,5,83044.4
+CUST00000695,male,42,36-45,Varanasi,UP,2024-04-25,Platinum,3,55716.82
+CUST00000696,female,19,18-25,Pune,Maharashtra,2024-01-11,Silver,2,6907.48
+CUST00000697,male,26,26-35,Dwarka,Delhi,2023-07-24,Platinum,9,236366.17
+CUST00000698,male,35,26-35,Noida,UP,2024-03-30,Platinum,6,436883.1
+CUST00000699,female,27,26-35,Kota,Rajasthan,2024-04-02,Platinum,5,310317.02
+CUST00000700,female,53,46-55,Pune,Maharashtra,2023-11-07,Gold,4,32646.29
+CUST00000701,female,23,18-25,Alwar,Rajasthan,2023-06-13,Platinum,6,220334.1
+CUST00000702,female,21,18-25,Agra,UP,2024-04-28,Platinum,7,171106.15
+CUST00000703,female,21,18-25,Kanpur,UP,2024-04-11,Platinum,8,253566.56
+CUST00000704,female,33,26-35,Jalandhar,Punjab,2023-08-02,Silver,2,4716.37
+CUST00000705,male,21,18-25,Surat,Gujarat,2023-06-30,Platinum,5,178149.34
+CUST00000706,male,21,18-25,Lucknow,UP,2023-12-16,Platinum,6,353180.8
+CUST00000707,female,66,65+,Gurugram,Haryana,2023-07-25,Gold,3,22890.26
+CUST00000708,male,34,26-35,Lucknow,UP,2023-11-16,Silver,3,18441.58
+CUST00000709,female,28,26-35,Noida,UP,2024-01-01,Silver,3,19372.12
+CUST00000710,male,25,18-25,Howrah,"West Bengal",2023-07-26,Gold,5,46234.99
+CUST00000711,male,32,26-35,Nagpur,Maharashtra,2023-10-04,Platinum,8,69948.23
+CUST00000712,female,30,26-35,Alwar,Rajasthan,2023-10-19,Platinum,6,244221.39
+CUST00000713,female,37,36-45,Mangalore,Karnataka,2023-09-15,Platinum,6,158439.76
+CUST00000714,male,48,46-55,Lucknow,UP,2023-08-10,Gold,5,30692.08
+CUST00000715,female,33,26-35,Mumbai,Maharashtra,2023-11-20,Platinum,4,89494.38
+CUST00000716,female,25,18-25,Surat,Gujarat,2024-02-18,Platinum,3,76155.72
+CUST00000717,male,19,18-25,Agra,UP,2024-03-03,Gold,6,24261.39
+CUST00000718,female,31,26-35,Amritsar,Punjab,2023-06-30,Platinum,5,155210.32
+CUST00000719,female,25,18-25,Agra,UP,2023-09-14,Silver,3,19725.76
+CUST00000720,female,23,18-25,Agra,UP,2023-08-13,Platinum,8,329239.65
+CUST00000721,male,20,18-25,Gurugram,Haryana,2023-09-23,Platinum,4,93084.05
+CUST00000722,male,18,18-25,Rajkot,Gujarat,2023-08-17,Gold,5,41861.3
+CUST00000723,male,35,26-35,Amritsar,Punjab,2023-12-08,Platinum,4,109399.98
+CUST00000724,male,44,36-45,Ahmedabad,Gujarat,2023-06-13,Gold,5,29866.87
+CUST00000725,male,31,26-35,Mysore,Karnataka,2023-12-31,Platinum,7,286336.76
+CUST00000726,female,28,26-35,Sohna,Haryana,2023-11-22,Gold,3,34992.98
+CUST00000727,female,26,26-35,Vadodara,Gujarat,2023-09-02,Platinum,5,77759.24
+CUST00000728,male,58,56-65,Mysore,Karnataka,2023-08-22,Silver,3,4676.91
+CUST00000729,female,33,26-35,Amritsar,Punjab,2023-07-02,Gold,6,38732.61
+CUST00000730,male,35,26-35,Amritsar,Punjab,2023-07-06,Platinum,4,245065.64
+CUST00000731,male,36,36-45,Surat,Gujarat,2024-02-18,Platinum,5,132434.12
+CUST00000732,male,38,36-45,Patiala,Punjab,2024-05-01,Platinum,6,191003.53
+CUST00000733,male,21,18-25,Lucknow,UP,2024-03-18,Silver,1,16224.36
+CUST00000734,male,20,18-25,Nagpur,Maharashtra,2024-05-09,Gold,1,45247.77
+CUST00000735,male,24,18-25,Jalandhar,Punjab,2023-08-27,Platinum,3,65526.96
+CUST00000736,female,27,26-35,Faridabad,Haryana,2024-05-10,Platinum,8,249709.79
+CUST00000737,male,20,18-25,Patiala,Punjab,2024-02-26,Gold,2,40326.91
+CUST00000738,male,51,46-55,Madurai,"Tamil Nadu",2023-08-01,Silver,5,12682.55
+CUST00000739,female,47,46-55,Agra,UP,2023-07-06,Silver,2,2071.82
+CUST00000740,female,26,26-35,Mumbai,Maharashtra,2023-07-17,Platinum,5,166165.49
+CUST00000741,male,29,26-35,Panipat,Haryana,2023-12-03,Gold,5,27942.87
+CUST00000742,female,19,18-25,Surat,Gujarat,2024-01-06,Platinum,4,269368.37
+CUST00000743,female,24,18-25,Jodhpur,Rajasthan,2024-02-08,Platinum,6,51888.32
+CUST00000744,female,33,26-35,Gurugram,Haryana,2024-01-08,Platinum,8,113231.32
+CUST00000745,female,18,18-25,Udaipur,Rajasthan,2024-01-02,Gold,6,34070.42
+CUST00000746,female,34,26-35,Ludhiana,Punjab,2024-02-12,Platinum,9,294249.3
+CUST00000747,female,32,26-35,Amritsar,Punjab,2023-09-23,Platinum,6,54790.57
+CUST00000748,female,19,18-25,Palwal,Haryana,2023-07-02,Silver,2,2104.48
+CUST00000749,male,64,56-65,Jalandhar,Punjab,2024-03-26,Platinum,6,95095.43
+CUST00000750,female,18,18-25,Rajkot,Gujarat,2024-04-15,Platinum,6,87194.89
+CUST00000751,male,43,36-45,Alwar,Rajasthan,2023-08-11,Platinum,5,189630.54
+CUST00000752,male,34,26-35,Kolkata,"West Bengal",2023-11-14,Platinum,2,123814.94
+CUST00000753,female,43,36-45,Mangalore,Karnataka,2024-02-08,Platinum,5,159291.4
+CUST00000754,male,33,26-35,Sohna,Haryana,2024-04-07,Gold,4,44180.13
+CUST00000755,female,57,56-65,Ludhiana,Punjab,2024-04-05,Silver,6,16331.81
+CUST00000756,male,23,18-25,Rajkot,Gujarat,2024-01-14,Gold,6,28821.57
+CUST00000757,male,24,18-25,Lucknow,UP,2023-08-17,Platinum,8,176466.32
+CUST00000758,male,32,26-35,Chennai,"Tamil Nadu",2024-01-27,Gold,2,41074.06
+CUST00000759,male,19,18-25,Panipat,Haryana,2023-08-05,Gold,5,39524.43
+CUST00000760,female,41,36-45,Dwarka,Delhi,2023-12-22,Platinum,4,164412.75
+CUST00000761,female,30,26-35,Kanpur,UP,2023-09-03,Platinum,7,253126.05
+CUST00000762,female,31,26-35,Alwar,Rajasthan,2023-09-25,Gold,3,37834.38
+CUST00000763,male,31,26-35,Surat,Gujarat,2024-05-12,Platinum,9,208438.31
+CUST00000764,male,26,26-35,Faridabad,Haryana,2023-08-11,Platinum,5,106944.83
+CUST00000765,male,71,65+,Ahmedabad,Gujarat,2023-07-25,Silver,9,18755.09
+CUST00000766,female,45,36-45,Agra,UP,2024-03-29,Platinum,3,115367.74
+CUST00000767,female,51,46-55,Varanasi,UP,2024-04-19,Platinum,8,138024.47
+CUST00000768,female,41,36-45,Noida,UP,2023-11-15,Gold,5,32779.61
+CUST00000769,female,46,46-55,Alwar,Rajasthan,2023-09-26,Silver,4,19495.3
+CUST00000770,female,27,26-35,Kota,Rajasthan,2024-02-14,Gold,6,40757.46
+CUST00000771,male,25,18-25,Thane,Maharashtra,2023-06-22,Platinum,11,421126.2
+CUST00000772,male,32,26-35,Ludhiana,Punjab,2024-03-13,Platinum,5,101989.24
+CUST00000773,female,61,56-65,Coimbatore,"Tamil Nadu",2024-04-05,Silver,2,16177.95
+CUST00000774,male,43,36-45,Coimbatore,"Tamil Nadu",2024-05-30,Platinum,6,65678.82
+CUST00000775,female,44,36-45,Agra,UP,2023-08-26,Platinum,4,57590.86
+CUST00000776,female,22,18-25,Chennai,"Tamil Nadu",2023-06-03,Platinum,6,186156.87
+CUST00000777,female,24,18-25,Madurai,"Tamil Nadu",2023-10-13,Gold,5,37093.04
+CUST00000778,male,35,26-35,Vadodara,Gujarat,2023-09-28,Platinum,7,219262.65
+CUST00000779,female,45,36-45,Palwal,Haryana,2023-09-17,Platinum,9,257284.97
+CUST00000780,male,43,36-45,"Delhi NCR",Delhi,2024-02-14,Platinum,7,148321.04
+CUST00000781,male,21,18-25,Mysore,Karnataka,2024-05-13,Silver,2,9285.31
+CUST00000782,female,24,18-25,Kota,Rajasthan,2023-08-08,Platinum,5,191352.79
+CUST00000783,male,34,26-35,Mumbai,Maharashtra,2023-11-05,Platinum,5,282835.24
+CUST00000784,female,63,56-65,Kanpur,UP,2024-02-11,Gold,2,48492.77
+CUST00000785,female,20,18-25,Gurugram,Haryana,2023-12-11,Platinum,8,198077.7
+CUST00000786,male,34,26-35,Nagpur,Maharashtra,2024-03-29,Platinum,12,391049.92
+CUST00000787,male,43,36-45,Kanpur,UP,2024-02-29,Silver,1,871.56
+CUST00000788,female,34,26-35,"New Delhi",Delhi,2024-04-02,Platinum,5,142934.84
+CUST00000789,female,34,26-35,Ahmedabad,Gujarat,2024-01-22,Platinum,4,188127.42
+CUST00000790,female,25,18-25,Mysore,Karnataka,2023-11-03,Silver,2,2445.8
+CUST00000791,female,60,56-65,Amritsar,Punjab,2023-08-03,Platinum,7,64053.11
+CUST00000792,male,24,18-25,Ludhiana,Punjab,2023-09-12,Platinum,7,126183.97
+CUST00000793,female,22,18-25,Varanasi,UP,2024-03-28,Platinum,5,69207.9
+CUST00000794,male,21,18-25,Jalandhar,Punjab,2023-12-25,Platinum,7,152861.57
+CUST00000795,male,26,26-35,Noida,UP,2023-11-06,Platinum,7,247297.66
+CUST00000796,male,43,36-45,Varanasi,UP,2023-09-25,Platinum,6,308977.96
+CUST00000797,female,27,26-35,Varanasi,UP,2024-04-01,Platinum,5,182667.53
+CUST00000798,female,44,36-45,Patiala,Punjab,2024-01-19,Platinum,3,74095.91
+CUST00000799,male,55,46-55,Chennai,"Tamil Nadu",2024-01-27,Silver,3,18559.72
+CUST00000800,female,22,18-25,Chennai,"Tamil Nadu",2023-07-22,Silver,1,1449.5
+CUST00000801,female,56,56-65,Chennai,"Tamil Nadu",2024-01-29,Silver,4,15775.35
+CUST00000802,female,41,36-45,Faridabad,Haryana,2023-06-16,Gold,4,20032.95
+CUST00000803,male,24,18-25,Noida,UP,2023-06-17,Platinum,5,156337.75
+CUST00000804,male,33,26-35,Jaipur,Rajasthan,2023-09-20,Gold,2,34091.46
+CUST00000805,female,32,26-35,Palwal,Haryana,2023-07-07,Silver,0,0
+CUST00000806,female,30,26-35,Rajkot,Gujarat,2023-07-14,Gold,4,38206.79
+CUST00000807,male,53,46-55,Rajkot,Gujarat,2024-03-26,Silver,2,4155.3
+CUST00000808,female,43,36-45,Patiala,Punjab,2023-11-01,Platinum,4,139979.95
+CUST00000809,male,27,26-35,Jalandhar,Punjab,2023-06-06,Gold,4,40428.77
+CUST00000810,female,45,36-45,Durgapur,"West Bengal",2023-10-18,Platinum,4,97143.81
+CUST00000811,female,32,26-35,Agra,UP,2023-07-04,Gold,3,45817.38
+CUST00000812,male,57,56-65,"Delhi NCR",Delhi,2023-12-07,Silver,3,7355.43
+CUST00000813,male,31,26-35,Palwal,Haryana,2024-04-23,Platinum,6,252430.49
+CUST00000814,female,19,18-25,Noida,UP,2023-06-29,Gold,6,20122.78
+CUST00000815,male,29,26-35,Howrah,"West Bengal",2023-10-01,Platinum,3,203269.85
+CUST00000816,female,39,36-45,Ludhiana,Punjab,2024-05-24,Gold,6,30215.08
+CUST00000817,male,23,18-25,Rajkot,Gujarat,2024-03-02,Gold,7,31079.31
+CUST00000818,male,45,36-45,Jalandhar,Punjab,2023-07-31,Platinum,4,219924.64
+CUST00000819,male,40,36-45,Udaipur,Rajasthan,2023-09-02,Platinum,4,109171.42
+CUST00000820,male,24,18-25,Noida,UP,2024-05-04,Platinum,6,456134.81
+CUST00000821,male,33,26-35,Lucknow,UP,2023-11-09,Platinum,6,162749.34
+CUST00000822,female,61,56-65,Palwal,Haryana,2023-08-01,Silver,2,1677.12
+CUST00000823,male,24,18-25,Noida,UP,2023-07-15,Platinum,7,99308.05
+CUST00000824,male,28,26-35,Thane,Maharashtra,2023-12-18,Platinum,8,52151.21
+CUST00000825,female,41,36-45,Ahmedabad,Gujarat,2023-11-05,Platinum,5,164439.47
+CUST00000826,female,23,18-25,Coimbatore,"Tamil Nadu",2023-06-25,Platinum,9,183741.4
+CUST00000827,male,48,46-55,"Delhi NCR",Delhi,2023-11-05,Silver,2,5319.44
+CUST00000828,male,34,26-35,Kota,Rajasthan,2024-02-12,Platinum,6,115218.28
+CUST00000829,female,33,26-35,Mumbai,Maharashtra,2024-03-27,Silver,2,12169.15
+CUST00000830,female,23,18-25,Agra,UP,2024-01-05,Platinum,1,53264.74
+CUST00000831,female,28,26-35,Coimbatore,"Tamil Nadu",2023-08-02,Platinum,5,112709.77
+CUST00000832,female,44,36-45,Thane,Maharashtra,2024-02-22,Silver,1,2369.75
+CUST00000833,female,43,36-45,Alwar,Rajasthan,2024-05-08,Gold,4,42313.64
+CUST00000834,female,34,26-35,Lucknow,UP,2024-03-24,Platinum,4,175586.49
+CUST00000835,female,33,26-35,Pune,Maharashtra,2023-09-13,Platinum,6,185192.16
+CUST00000836,female,40,36-45,Patiala,Punjab,2023-10-21,Platinum,2,53031.13
+CUST00000837,male,33,26-35,"Delhi NCR",Delhi,2024-04-21,Platinum,8,100959.47
+CUST00000838,female,21,18-25,Howrah,"West Bengal",2024-03-20,Platinum,5,124250.55
+CUST00000839,male,48,46-55,Varanasi,UP,2024-03-09,Platinum,9,85895.44
+CUST00000840,male,52,46-55,Kota,Rajasthan,2023-07-12,Gold,2,36270.13
+CUST00000841,female,30,26-35,Jodhpur,Rajasthan,2024-03-10,Gold,2,43652.28
+CUST00000842,female,69,65+,Jodhpur,Rajasthan,2023-10-24,Gold,6,31699.62
+CUST00000843,female,31,26-35,Kanpur,UP,2023-12-03,Platinum,1,51443.32
+CUST00000844,male,39,36-45,Kanpur,UP,2023-09-25,Platinum,8,179174.45
+CUST00000845,female,30,26-35,Thane,Maharashtra,2023-12-07,Platinum,7,203046.47
+CUST00000846,female,63,56-65,Ludhiana,Punjab,2023-08-11,Gold,6,32548.9
+CUST00000847,male,57,56-65,Jodhpur,Rajasthan,2023-10-05,Gold,3,29054.75
+CUST00000848,male,39,36-45,Jaipur,Rajasthan,2023-12-11,Platinum,3,73058.2
+CUST00000849,female,63,56-65,Coimbatore,"Tamil Nadu",2024-05-25,Silver,5,15410.87
+CUST00000850,female,19,18-25,Nagpur,Maharashtra,2023-06-22,Platinum,8,116914.55
+CUST00000851,male,51,46-55,Mumbai,Maharashtra,2023-11-29,Silver,4,14576.6
+CUST00000852,male,27,26-35,"Delhi NCR",Delhi,2024-02-04,Platinum,4,390496.42
+CUST00000853,female,37,36-45,Jaipur,Rajasthan,2023-10-06,Platinum,5,210564.15
+CUST00000854,female,38,36-45,Rajkot,Gujarat,2023-12-16,Platinum,3,111299.54
+CUST00000855,male,40,36-45,"New Delhi",Delhi,2023-07-25,Platinum,7,222241.4
+CUST00000856,male,32,26-35,Madurai,"Tamil Nadu",2023-07-04,Platinum,6,286595.07
+CUST00000857,female,21,18-25,Durgapur,"West Bengal",2024-02-15,Platinum,7,290729.83
+CUST00000858,male,41,36-45,Patiala,Punjab,2024-04-26,Platinum,4,65988.89
+CUST00000859,female,29,26-35,Agra,UP,2023-07-16,Platinum,4,244970.11
+CUST00000860,male,19,18-25,Noida,UP,2024-03-16,Platinum,1,50252.76
+CUST00000861,female,22,18-25,Nagpur,Maharashtra,2024-05-19,Gold,4,47144.28
+CUST00000862,female,53,46-55,"Delhi NCR",Delhi,2023-08-02,Gold,5,44750.68
+CUST00000863,female,26,26-35,Vadodara,Gujarat,2023-06-09,Platinum,7,83049.3
+CUST00000864,male,30,26-35,Palwal,Haryana,2023-11-02,Platinum,7,195959.98
+CUST00000865,female,28,26-35,Noida,UP,2024-01-18,Platinum,6,123894.6
+CUST00000866,female,40,36-45,Varanasi,UP,2023-12-15,Platinum,2,82443.8
+CUST00000867,male,35,26-35,Coimbatore,"Tamil Nadu",2024-04-16,Gold,3,30568.79
+CUST00000868,female,55,46-55,Pune,Maharashtra,2023-10-04,Silver,3,3972.72
+CUST00000869,male,39,36-45,Sohna,Haryana,2024-05-06,Gold,2,27645.14
+CUST00000870,female,37,36-45,Panipat,Haryana,2023-12-03,Platinum,7,134820.58
+CUST00000871,female,25,18-25,Ahmedabad,Gujarat,2024-02-26,Platinum,9,243609.83
+CUST00000872,female,54,46-55,Noida,UP,2024-02-12,Platinum,7,113523.65
+CUST00000873,male,46,46-55,"New Delhi",Delhi,2023-10-28,Gold,3,20505.79
+CUST00000874,female,36,36-45,Surat,Gujarat,2023-08-26,Platinum,7,271392.19
+CUST00000875,female,19,18-25,Kanpur,UP,2024-05-04,Platinum,7,147659.54
+CUST00000876,male,49,46-55,Thane,Maharashtra,2024-01-02,Silver,4,15661.42
+CUST00000877,female,29,26-35,Gurugram,Haryana,2023-07-12,Platinum,5,379731.99
+CUST00000878,female,64,56-65,Jalandhar,Punjab,2024-02-12,Gold,5,45151.23
+CUST00000879,male,19,18-25,Kanpur,UP,2024-01-19,Gold,9,27626.54
+CUST00000880,female,23,18-25,Vadodara,Gujarat,2024-05-05,Platinum,4,151950.21
+CUST00000881,female,19,18-25,"New Delhi",Delhi,2024-01-29,Platinum,7,221038.21
+CUST00000882,male,18,18-25,Thane,Maharashtra,2024-05-01,Platinum,8,215788.38
+CUST00000883,female,42,36-45,Sohna,Haryana,2023-12-08,Platinum,2,72601.46
+CUST00000884,male,24,18-25,Mysore,Karnataka,2023-08-08,Platinum,6,250386.87
+CUST00000885,male,54,46-55,Udaipur,Rajasthan,2023-10-17,Gold,4,43154.94
+CUST00000886,female,40,36-45,Thane,Maharashtra,2023-12-13,Silver,4,3398.03
+CUST00000887,male,22,18-25,Varanasi,UP,2024-02-07,Silver,4,12990.61
+CUST00000888,male,19,18-25,Surat,Gujarat,2023-10-20,Gold,4,33862.5
+CUST00000889,male,27,26-35,Mumbai,Maharashtra,2024-05-21,Platinum,5,240898.58
+CUST00000890,male,33,26-35,Palwal,Haryana,2023-12-27,Platinum,2,127549.7
+CUST00000891,female,19,18-25,Faridabad,Haryana,2024-02-04,Silver,2,3347.09
+CUST00000892,female,25,18-25,Pune,Maharashtra,2024-05-16,Platinum,4,262941.76
+CUST00000893,female,38,36-45,Agra,UP,2023-10-18,Gold,4,46614.47
+CUST00000894,male,26,26-35,Nagpur,Maharashtra,2024-04-19,Platinum,7,135489.39
+CUST00000895,male,28,26-35,Coimbatore,"Tamil Nadu",2023-06-18,Gold,3,43070.59
+CUST00000896,male,45,36-45,Palwal,Haryana,2024-03-07,Platinum,3,101788.39
+CUST00000897,female,48,46-55,Panipat,Haryana,2023-11-07,Platinum,5,90787.18
+CUST00000898,female,25,18-25,Dwarka,Delhi,2024-04-15,Platinum,4,189654.68
+CUST00000899,female,41,36-45,Amritsar,Punjab,2023-12-19,Platinum,6,83335.19
+CUST00000900,female,24,18-25,Kota,Rajasthan,2023-11-08,Platinum,3,90841.7
+CUST00000901,female,18,18-25,Mumbai,Maharashtra,2024-04-23,Gold,4,22418.32
+CUST00000902,female,28,26-35,Palwal,Haryana,2024-02-16,Platinum,5,96840.26
+CUST00000903,female,40,36-45,Patiala,Punjab,2024-05-17,Platinum,4,63982.06
+CUST00000904,male,61,56-65,Agra,UP,2023-12-12,Platinum,6,60546.92
+CUST00000905,female,26,26-35,Rajkot,Gujarat,2023-10-17,Platinum,5,261261.36
+CUST00000906,male,29,26-35,Bangalore,Karnataka,2024-01-28,Gold,4,30932.37
+CUST00000907,female,34,26-35,"Delhi NCR",Delhi,2023-11-17,Silver,1,453.96
+CUST00000908,male,65,56-65,Rajkot,Gujarat,2024-02-20,Gold,3,32876.97
+CUST00000909,male,41,36-45,Faridabad,Haryana,2023-06-13,Platinum,3,112497.57
+CUST00000910,female,48,46-55,Kolkata,"West Bengal",2023-06-21,Silver,3,5315.83
+CUST00000911,male,26,26-35,Varanasi,UP,2024-04-30,Platinum,6,88614.19
+CUST00000912,male,43,36-45,Surat,Gujarat,2023-08-22,Silver,1,247.97
+CUST00000913,female,19,18-25,Agra,UP,2023-12-13,Platinum,2,91603.4
+CUST00000914,female,28,26-35,Bangalore,Karnataka,2024-05-05,Platinum,4,68500.09
+CUST00000915,male,52,46-55,Howrah,"West Bengal",2023-11-15,Silver,6,17847.11
+CUST00000916,female,22,18-25,Howrah,"West Bengal",2024-04-01,Platinum,4,121957.23
+CUST00000917,female,39,36-45,Panipat,Haryana,2024-05-25,Platinum,6,219309.73
+CUST00000918,female,59,56-65,Varanasi,UP,2024-01-09,Platinum,5,83819.23
+CUST00000919,female,51,46-55,Kota,Rajasthan,2024-05-25,Silver,3,4609.56
+CUST00000920,female,63,56-65,Jaipur,Rajasthan,2024-02-29,Gold,4,43974.73
+CUST00000921,male,18,18-25,Pune,Maharashtra,2023-10-28,Platinum,5,71008.73
+CUST00000922,female,61,56-65,Noida,UP,2024-03-27,Silver,3,3393.94
+CUST00000923,male,37,36-45,Jodhpur,Rajasthan,2023-06-26,Platinum,4,101867.28
+CUST00000924,male,74,65+,Sohna,Haryana,2023-07-14,Silver,7,10570.82
+CUST00000925,female,65,56-65,Pune,Maharashtra,2023-06-19,Silver,2,908.16
+CUST00000926,male,37,36-45,Lucknow,UP,2023-06-25,Platinum,4,156609.72
+CUST00000927,female,51,46-55,Jaipur,Rajasthan,2024-04-28,Silver,4,4609.84
+CUST00000928,female,33,26-35,Pune,Maharashtra,2023-12-08,Platinum,2,88613.25
+CUST00000929,female,45,36-45,Jaipur,Rajasthan,2023-12-04,Platinum,5,156997.44
+CUST00000930,male,28,26-35,Alwar,Rajasthan,2024-02-23,Platinum,7,117841.65
+CUST00000931,female,49,46-55,Alwar,Rajasthan,2023-08-04,Platinum,10,60529.99
+CUST00000932,female,47,46-55,"New Delhi",Delhi,2024-04-27,Platinum,6,50288.66
+CUST00000933,male,45,36-45,Chennai,"Tamil Nadu",2023-09-29,Platinum,7,168151.19
+CUST00000934,female,29,26-35,Pune,Maharashtra,2024-04-23,Platinum,5,74269.62
+CUST00000935,male,25,18-25,Mangalore,Karnataka,2024-02-25,Platinum,6,57645.41
+CUST00000936,female,28,26-35,"New Delhi",Delhi,2023-12-04,Platinum,4,90282.45
+CUST00000937,female,18,18-25,Mysore,Karnataka,2023-07-23,Platinum,8,437626.43
+CUST00000938,male,53,46-55,"Delhi NCR",Delhi,2024-01-09,Silver,6,18684.29
+CUST00000939,female,36,36-45,Mangalore,Karnataka,2023-09-19,Platinum,5,216303.18
+CUST00000940,male,23,18-25,Sohna,Haryana,2024-03-03,Platinum,7,116547.94
+CUST00000941,female,34,26-35,Durgapur,"West Bengal",2023-11-12,Platinum,5,253975.98
+CUST00000942,female,27,26-35,Kota,Rajasthan,2023-08-09,Silver,2,16777.28
+CUST00000943,female,56,56-65,Kolkata,"West Bengal",2023-12-22,Platinum,4,52720.21
+CUST00000944,female,56,56-65,Dwarka,Delhi,2024-05-31,Silver,1,109.81
+CUST00000945,female,52,46-55,Nagpur,Maharashtra,2023-07-17,Silver,3,9806.15
+CUST00000946,male,30,26-35,Sohna,Haryana,2024-03-22,Platinum,6,96890.51
+CUST00000947,female,37,36-45,Chennai,"Tamil Nadu",2023-09-14,Platinum,6,222910.73
+CUST00000948,male,34,26-35,Ludhiana,Punjab,2024-02-01,Platinum,14,564833.49
+CUST00000949,female,31,26-35,Kolkata,"West Bengal",2024-05-15,Platinum,11,456108.84
+CUST00000950,male,65,56-65,Mysore,Karnataka,2023-06-21,Silver,2,2132.03
+CUST00000951,male,26,26-35,Agra,UP,2024-04-22,Platinum,3,99624.66
+CUST00000952,female,29,26-35,Gurugram,Haryana,2023-11-23,Gold,4,39384.82
+CUST00000953,male,21,18-25,Chennai,"Tamil Nadu",2024-01-05,Platinum,4,101519.48
+CUST00000954,male,38,36-45,Varanasi,UP,2024-05-17,Gold,3,34863.12
+CUST00000955,male,36,36-45,Jaipur,Rajasthan,2023-12-19,Gold,5,22226.27
+CUST00000956,female,58,56-65,Faridabad,Haryana,2023-07-09,Silver,2,8713.02
+CUST00000957,female,21,18-25,Gurugram,Haryana,2024-03-17,Platinum,6,83183.99
+CUST00000958,female,25,18-25,Gurugram,Haryana,2023-11-24,Platinum,3,344121.95
+CUST00000959,male,24,18-25,Dwarka,Delhi,2023-06-14,Silver,3,14818.49
+CUST00000960,female,29,26-35,Amritsar,Punjab,2023-06-18,Platinum,3,53369.24
+CUST00000961,male,26,26-35,Patiala,Punjab,2024-02-24,Platinum,4,195999.48
+CUST00000962,female,27,26-35,Patiala,Punjab,2023-07-14,Platinum,7,206918.55
+CUST00000963,male,60,56-65,Patiala,Punjab,2023-07-26,Silver,3,5548.69
+CUST00000964,female,38,36-45,Faridabad,Haryana,2023-11-24,Platinum,4,156402.5
+CUST00000965,male,47,46-55,Palwal,Haryana,2023-10-29,Silver,4,8299.84
+CUST00000966,male,47,46-55,Durgapur,"West Bengal",2023-08-10,Gold,10,36212.47
+CUST00000967,male,33,26-35,Mangalore,Karnataka,2024-02-14,Platinum,6,188093.03
+CUST00000968,male,43,36-45,Noida,UP,2023-11-13,Gold,3,38835.11
+CUST00000969,female,29,26-35,Patiala,Punjab,2023-09-10,Platinum,6,222761.55
+CUST00000970,male,40,36-45,"Delhi NCR",Delhi,2024-03-31,Platinum,5,173538.14
+CUST00000971,male,44,36-45,Kolkata,"West Bengal",2024-05-29,Silver,1,6933.2
+CUST00000972,male,34,26-35,Agra,UP,2023-06-02,Platinum,8,65559.57
+CUST00000973,female,22,18-25,Jodhpur,Rajasthan,2024-04-21,Platinum,7,117356.05
+CUST00000974,female,55,46-55,Jaipur,Rajasthan,2023-12-24,Gold,8,38262.17
+CUST00000975,female,31,26-35,Mysore,Karnataka,2023-11-12,Silver,1,2416.27
+CUST00000976,female,30,26-35,Howrah,"West Bengal",2024-04-21,Platinum,5,89530.7
+CUST00000977,female,36,36-45,Sohna,Haryana,2023-12-15,Platinum,6,109604.4
+CUST00000978,female,18,18-25,Panipat,Haryana,2023-11-14,Silver,3,9957.3
+CUST00000979,male,63,56-65,Jodhpur,Rajasthan,2024-04-09,Platinum,8,95730.98
+CUST00000980,female,19,18-25,Varanasi,UP,2023-07-01,Platinum,9,254391.43
+CUST00000981,female,41,36-45,Rajkot,Gujarat,2023-11-12,Platinum,8,216596.7
+CUST00000982,female,48,46-55,Bangalore,Karnataka,2023-12-10,Platinum,7,85747.01
+CUST00000983,male,40,36-45,Mangalore,Karnataka,2024-02-11,Platinum,2,122726.24
+CUST00000984,male,19,18-25,Vadodara,Gujarat,2023-07-18,Platinum,7,296954.99
+CUST00000985,male,18,18-25,Kota,Rajasthan,2024-04-23,Silver,2,11977.88
+CUST00000986,male,41,36-45,Udaipur,Rajasthan,2024-05-18,Platinum,3,81375.98
+CUST00000987,female,36,36-45,Varanasi,UP,2023-12-18,Platinum,7,192302.54
+CUST00000988,male,60,56-65,Patiala,Punjab,2024-03-14,Silver,4,6848.76
+CUST00000989,female,53,46-55,Sohna,Haryana,2023-11-10,Gold,3,45291.57
+CUST00000990,female,22,18-25,Coimbatore,"Tamil Nadu",2023-06-07,Gold,2,20623.99
+CUST00000991,male,30,26-35,Palwal,Haryana,2024-04-26,Silver,3,12814.94
+CUST00000992,male,37,36-45,Nagpur,Maharashtra,2023-11-07,Platinum,6,118276.25
+CUST00000993,male,18,18-25,Jalandhar,Punjab,2023-07-13,Platinum,3,80672.91
+CUST00000994,male,25,18-25,"New Delhi",Delhi,2023-10-20,Silver,3,19182.96
+CUST00000995,female,23,18-25,"New Delhi",Delhi,2024-03-18,Gold,6,22115.7
+CUST00000996,male,36,36-45,Dwarka,Delhi,2023-08-31,Platinum,4,91457.98
+CUST00000997,male,45,36-45,Rajkot,Gujarat,2024-02-24,Platinum,5,157422.05
+CUST00000998,female,20,18-25,Nagpur,Maharashtra,2024-01-22,Platinum,5,374369.16
+CUST00000999,female,46,46-55,Amritsar,Punjab,2023-12-23,Silver,0,0
+CUST00001000,female,32,26-35,Jaipur,Rajasthan,2023-07-15,Platinum,2,65438.21
